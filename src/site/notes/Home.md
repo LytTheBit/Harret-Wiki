@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-03T22:00:56.999+02:00","dg-note-properties":{"cssclasses":["banner"]}}
+{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-03T22:03:12.589+02:00","dg-note-properties":{"cssclasses":["banner"]}}
 ---
-
-
 
 ![Test.png](/img/user/Test.png)
 
