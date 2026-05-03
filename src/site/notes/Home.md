@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-Test 1
-
 [[Test\|Test]]
 
 ![Test.png](/img/user/Test.png)
