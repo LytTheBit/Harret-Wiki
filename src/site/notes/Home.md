@@ -6,7 +6,7 @@
 
 [[Test\|Test]]
 
-![Test.png](/img/user/Immagini/Test.png)
+![Test.png](/img/user/0-Immagini/Test.png)
 ## I pianeti
 
 ### I regni
