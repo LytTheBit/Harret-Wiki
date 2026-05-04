@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Test/","noteIcon":"","created":"2026-05-03T10:25:37.991+02:00","updated":"2026-05-04T21:23:36.543+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Test/","created":"2026-05-03T10:25:37.991+02:00","updated":"2026-05-04T21:23:36.543+02:00","dg-note-properties":{}}
 ---
 
 ### Section 1.10.32 
