@@ -1,17 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/Test/","created":"2026-05-03T10:25:37.991+02:00","updated":"2026-05-03T20:56:18.378+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Test/","noteIcon":"","created":"2026-05-03T10:25:37.991+02:00","updated":"2026-05-04T21:23:36.543+02:00","dg-note-properties":{}}
 ---
 
-### Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+### Section 1.10.32 
+[[Template/Gruppi/Famiglia\|Famiglia]]
+of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
 
 "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
 > [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
 > # Nome Personaggio
-> ![Test.png](/img/user/Test.png)
+> ![Test.png](/img/user/Immagini/Test.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Specie | [[Template/Specie\|Specie]] | 
+> | Specie | [[Template/Lore/Specie\|Specie]] | 
 > | Classe/Combattente/Tipo | ??? |
 > | Categoria | Pg / Npc / Mostro |
 > | Genere | M/F/? |
