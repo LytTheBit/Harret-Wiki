@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Test/","created":"2026-05-03T10:25:37.991+02:00","updated":"2026-05-04T21:23:36.543+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Test/","created":"2026-05-03T10:25:37.991+02:00","updated":"2026-05-05T14:08:06.126+02:00","dg-note-properties":{}}
 ---
 
 ### Section 1.10.32 
@@ -13,7 +13,7 @@ of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Specie | [[0-Template/Lore/Specie\|Specie]] | 
+> | Specie | [[0-Template/Lore/Specie Senziente\|Specie Senziente]] | 
 > | Classe/Combattente/Tipo | ??? |
 > | Categoria | Pg / Npc / Mostro |
 > | Genere | M/F/? |
