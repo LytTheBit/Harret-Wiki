@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-07T19:08:23.224+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-07T19:13:08.694+02:00","dg-note-properties":{}}
 ---
 
 # Home
 
-Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... credo.
+Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... credo...
 
 
 ## Campagne
