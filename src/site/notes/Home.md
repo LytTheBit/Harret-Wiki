@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-07T21:29:20.014+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-07T21:37:36.151+02:00","dg-note-properties":{}}
 ---
 
 # Home
 
-![[4° cielo gif.mp4]]
+<video controls width="100%">
+  <source src="/0-Immagini/4° cielo gif.mp4" type="video/mp4">
+</video>
+
 Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... credo... bho
 
 
