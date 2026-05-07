@@ -1,24 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-05T14:22:57.409+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-07T12:30:11.346+02:00","dg-note-properties":{}}
 ---
 
 # Harret
 
 Benvenuti ad Harret... non c'è niente qui per ora...
 
-[[Test\|Test]]
 
-![Test.png](/img/user/0-Immagini/Test.png)
-## I pianeti
+## Campagne
+```base
+filters:
+  and:
+    - file.hasTag("Campagna")
+views:
+  - type: cards
+    name: "Sessioni"
+    image: immagine
+    imageFit: cover
+    order:
+      - file.name
+```
 
-### I regni
-
-#### Le specie
-
-##### Le persone
-
-###### La lore
-
+## Giocatori
+```base
+filters:
+  and:
+    - file.hasTag("Player")
+views:
+  - type: cards
+    name: "Sessioni"
+    image: immagine
+    imageFit: cover
+    order:
+      - file.name
+```
+## Personaggi
+```base
+filters:
+  and:
+    - file.hasTag("PG")
+views:
+  - type: cards
+    name: "Sessioni"
+    image: immagine
+    imageFit: cover
+    order:
+      - file.name
+```
 > [!info] Titolo
 > Questo è un callout informativo!
 
