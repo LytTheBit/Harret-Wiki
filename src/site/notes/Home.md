@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-07T18:12:04.557+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-07T18:48:40.291+02:00","dg-note-properties":{}}
 ---
 
 # Harret
@@ -14,7 +14,7 @@ filters:
     - file.hasTag("Campagna")
 views:
   - type: cards
-    name: "Sessioni"
+    name: "Campagne"
     image: immagine
     imageFit: cover
     order:
@@ -28,7 +28,7 @@ filters:
     - file.hasTag("Player")
 views:
   - type: cards
-    name: "Sessioni"
+    name: "Giocatori"
     image: immagine
     imageFit: cover
     order:
