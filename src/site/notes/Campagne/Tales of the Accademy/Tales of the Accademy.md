@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-05-07T13:09:39.200+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":null,"Data di fine":null,"Players":["[[Lorenzo Grassi\|Lorenzo Grassi]]","[[Nodar Varazashvili\|Nodar Varazashvili]]","[[Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"[[Accademia di Wissen.png]]"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-05-07T18:06:57.342+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":null,"Data di fine":null,"Players":["[[Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"[[Accademia di Wissen.png]]"}}
 ---
 
 # Tales of the Academy
@@ -15,9 +15,9 @@
 > | Data di fine | ??? |
 > | Ambientazione | [[Mondo/Accademia di Wissen\|Accademia di Wissen]] |
 > ## Players
-> - [[Lorenzo Grassi\|Lorenzo Grassi]] —
+> - [[Persone/Lorenzo Grassi\|Lorenzo Grassi]] —
 > - [[Persone/Lorenzo Camuso\|Lorenzo Camuso]] —
-> - [[Nodar Varazashvili\|Nodar Varazashvili]] —
+> - [[Persone/Nodar Varazashvili\|Nodar Varazashvili]] —
 >  
 > > [!footer]
 > > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
