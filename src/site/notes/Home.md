@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-07T21:22:33.017+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-07T21:29:20.014+02:00","dg-note-properties":{}}
 ---
 
 # Home
 
+![[4° cielo gif.mp4]]
 Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... credo... bho
 
 
@@ -17,21 +18,6 @@ views:
     name: "Campagne"
     image: immagine
     imageFit: cover
-    order:
-      - file.name
-```
-
-```base
-filters:
-  and:
-    - file.hasTag("Campagna")
-formulas:
-  primaImmagine: file.embeds[0]
-views:
-  - type: cards
-    name: "Campagne"
-    imageFit: cover
-    image: formula.primaImmagine
     order:
       - file.name
 ```
