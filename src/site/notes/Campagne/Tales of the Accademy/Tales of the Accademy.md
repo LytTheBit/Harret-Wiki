@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-05-07T18:06:57.342+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":null,"Data di fine":null,"Players":["[[Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"[[Accademia di Wissen.png]]"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-05-07T18:14:35.063+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":null,"Data di fine":null,"Players":["[[Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"[[Accademia di Wissen.png]]"}}
 ---
 
 # Tales of the Academy
@@ -22,6 +22,7 @@
 > > [!footer]
 > > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
 
+*Tales of the Academy* è una campagna ambientata su Harret iniziata nel Maggio del 2026. Ha come giocatori [[Persone/Lorenzo Grassi\|Lorenzo Grassi]], [[Persone/Lorenzo Camuso\|Lorenzo Camuso]] e [[Persone/Nodar Varazashvili\|Nodar Varazashvili]]. E' ambientata nel [[Mondo/Accademia di Wissen\|Accademia di Wissen]], e ha come protagonisti un gruppo di studenti del primo anno.
 ## Premessa
 
 C'è un detto sull'Accademia di Wissen. Tutti coloro che ne escono diventano grandi eroi... se ne escono vivi.
