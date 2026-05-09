@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Religione e dei/Dio della conoscenza/Dio della conoscenza/","tags":["#dio","#uomo"],"created":"2026-05-08T22:51:08.113+02:00","updated":"2026-05-09T15:08:04.654+02:00","dg-note-properties":{"aliases":["Dio della morte","Memor"],"tags":["#dio","#uomo"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Libri","Conoscenze","Mente"],"Culti":["[[Ordine dei sapienti\|Ordine dei sapienti]]"],"Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Religione e dei/Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]]","Nome":"Memor","Immagine":"[[Dio della conoscenza.png]]"}}
+{"dg-publish":true,"permalink":"/Religione e dei/Dio della conoscenza/Dio della conoscenza/","tags":["#dio","#uomo","Num5"],"created":"2026-05-08T22:51:08.113+02:00","updated":"2026-05-09T21:28:12.468+02:00","dg-note-properties":{"aliases":["Dio della morte","Memor"],"tags":["#dio","#uomo","Num5"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Libri","Conoscenze","Mente"],"Culti":["[[Ordine dei sapienti\|Ordine dei sapienti]]"],"Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Religione e dei/Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]]","Nome":"Memor","Immagine":"[[Dio della conoscenza.png]]"}}
 ---
 
 # Dio della conoscenza
 
 > [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
 > # Dio della conoscenza
-> ![Dio della conoscenza.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Dio%20della%20conoscenza.png)
+> ![Dio della conoscenza.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -16,7 +16,7 @@
 > | Culti | [[Ordine dei sapienti\|Ordine dei sapienti]] |
 > | Mese | [[5° mese\|5° mese]] |
 > | Costellazione | [[Religione e dei/Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]] |
-> ![Tomo dei sapienti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Tomo%20dei%20sapienti.png)
+> ![Tomo dei sapienti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Tomo%20dei%20sapienti.png)
 > > [!footer]
 > > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
 
@@ -34,13 +34,19 @@ La rappresentazione più comune è spesso quella del sud, visto che è in quelle
 ## Religione
 L'ordine religioso più influente che lo venera è l'[[Ordine dei sapienti\|Ordine dei sapienti]]. Un ordine di tipo monastico che si specializza sul ricercare libri antichi e o perduti, tradurli e copiarli e distribuirli per il mondo tra le loro sedi.
 
-## Miti
+## Miti e tradizioni
 
-#### Il dono della parola
+#### Funerali
+...
+
+#### Mito: Il dono della parola
 Si racconta, che quando gli dei decisero di creare la vita, Memor fu colui che insegnò agli umani a parlare l'unica lingua di allora, la lingua degli dei.
 Ma quando un gruppo di umani cominciò a complottare per ribaltare gli dei allora Memor si adirò e li maledi. Tolse agli umani i segreti per parlare la lingua degli dei, e la sostituì con centinaia di lingue diverse 
 
+#### Mito: ...
+...
+
 ## Costellazione: Tomo dei sapienti
-Il Tomo dei sapienti è la costellazione legata a [[Religione e dei/Dio della conoscenza/Dio della conoscenza\|Memor]], il Dio della Conoscenza. Appare in cielo per circa da circa il [[3° mese\|3° mese]] al [[7° mese\|7° mese]] del anno, ma è durante il [[5° mese\|5° mese]] che risplende di tutta la sua luce.
+Il [[Religione e dei/Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]] è la costellazione legata a [[Religione e dei/Dio della conoscenza/Dio della conoscenza\|Memor]], il Dio della Conoscenza. Appare in cielo per circa da circa il [[3° mese\|3° mese]] al [[7° mese\|7° mese]] del anno, ma è durante il [[5° mese\|5° mese]] che risplende di tutta la sua luce.
 #### Credenze
 Si dice che chi sia nato sotto questa costellazione sia calmo e riflessivo, e che sia portato per lo studio.
