@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Religione e dei/Dio dei morti/Dio dei morti/","tags":["#dio","Num11"],"created":"2026-05-08T22:41:06.551+02:00","updated":"2026-05-09T22:01:09.777+02:00","dg-note-properties":{"aliases":["Dio della morte","Il senza nome"],"tags":["#dio","Num11"],"Template":"[[Divinità]]","Sesso":"???","Stagione":"[[Stagione Ombrosa\|Stagione Ombrosa]]","Dominio":["Anime","Ombre","Ricordi","Morti"],"Culti":["[[Religione e dei/Dio dei morti/Ordine silente\|Ordine silente]]"],"Mese":"[[11° mese\|11° mese]]","Costellazione":"[[Religione e dei/Dio dei morti/Lume dei defunti\|Lume dei defunti]]","Nome":"-Senza nome-","Immagine":"[[Dio dei morti.png]]"}}
+{"dg-publish":true,"permalink":"/Religione e dei/Dio dei morti/Dio dei morti/","tags":["#dio","Num11"],"created":"2026-05-08T22:41:06.551+02:00","updated":"2026-05-09T22:49:07.824+02:00","dg-note-properties":{"aliases":["Dio della morte","Il senza nome"],"tags":["#dio","Num11"],"Template":"[[Divinità]]","Sesso":"???","Stagione":"[[Stagione Ombrosa\|Stagione Ombrosa]]","Dominio":["Anime","Ombre","Ricordi","Morti"],"Culti":["[[Religione e dei/Dio dei morti/Ordine silente\|Ordine silente]]"],"Mese":"[[11° mese\|11° mese]]","Costellazione":"[[Religione e dei/Dio dei morti/Lume dei defunti\|Lume dei defunti]]","Nome":"-Senza nome-","Immagine":"[[Dio dei morti.png]]"}}
 ---
 
 # Dio dei morti
@@ -16,6 +16,7 @@
 > | Culti | [[Religione e dei/Dio dei morti/Ordine silente\|Ordine silente]] |
 > | Mese | [[11° mese\|11° mese]] |
 > | Costellazione | [[Religione e dei/Dio dei morti/Lume dei defunti\|Lume dei defunti]] |
+> 
 > ![Lume dei defunti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Lume%20dei%20defunti.png)
 > > [!footer]
 > > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
