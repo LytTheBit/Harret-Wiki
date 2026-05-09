@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Accademia di Wissen/","created":"2026-05-07T11:56:30.769+02:00","updated":"2026-05-07T18:10:26.204+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"Neutrale","Immagine":"[[Accademia di Wissen]]"}}
+{"dg-publish":true,"permalink":"/Mondo/Accademia di Wissen/","created":"2026-05-07T11:56:30.769+02:00","updated":"2026-05-08T14:50:19.431+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"Neutrale","Immagine":"[[Accademia di Wissen]]"}}
 ---
 
 # Accademia di Wissen
 
 > [!fas-infobox|right corners no-thead]
 > # Accademia di Wissen
-> ![Accademia di Wissen.png](/img/user/0-Immagini/Accademia%20di%20Wissen.png)
+> ![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi/Accademia%20di%20Wissen.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -41,6 +41,11 @@ loro gesta. I fondatori furono:
 
 Nel corso degli anni, altri eroi ed eroine si unirono ed espansero l’accademia, che oggi conta sei percorsi di studi.
 
+> [!tip] Curiosità
+> Nessuno sa da dove derivi il nome Wissen. I fondatori della scuola non lo hanno mai rivelato.
+
+
+
 ## Le Facoltà
 Ogni studente può scegliere una facoltà in cui specializzarsi. 
 
@@ -54,7 +59,7 @@ Ogni studente può scegliere una facoltà in cui specializzarsi.
 Nel corso degli anni scolastici le lezioni di specializzazione diventano sempre più importanti, e agli studenti viene chiesto di scegliere una seconda specializzazione. 
 
 
-![armoria_2026-05-06-15-51-44.png\|220](/img/user/0-Immagini/armoria_2026-05-06-15-51-44.png) ![armoria_2026-05-06-15-52-23.png\|220](/img/user/0-Immagini/armoria_2026-05-06-15-52-23.png) ![armoria_2026-05-06-15-53-09.png\|220](/img/user/0-Immagini/armoria_2026-05-06-15-53-09.png) ![armoria_2026-05-06-15-53-40.png\|220](/img/user/0-Immagini/armoria_2026-05-06-15-53-40.png) ![armoria_2026-05-06-15-54-24.png\|220](/img/user/0-Immagini/armoria_2026-05-06-15-54-24.png) ![armoria_2026-05-06-15-57-19.png\|220](/img/user/0-Immagini/armoria_2026-05-06-15-57-19.png) 
+![armoria_2026-05-06-15-51-44.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-51-44.png) ![armoria_2026-05-06-15-52-23.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-52-23.png) ![armoria_2026-05-06-15-53-09.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-53-09.png) ![armoria_2026-05-06-15-53-40.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-53-40.png) ![armoria_2026-05-06-15-54-24.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-54-24.png) ![armoria_2026-05-06-15-57-19.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-57-19.png) 
 ## Gli Edifici
 
 Il complesso è distribuito su cinque altopiani collegati da scale e ponti soprelevati.

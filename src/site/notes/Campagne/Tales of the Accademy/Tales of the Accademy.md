@@ -6,7 +6,7 @@
 
 > [!fas-infobox|right corners no-thead]
 > # Tales of the Academy
-> ![Accademia di Wissen.png](/img/user/0-Immagini/Accademia%20di%20Wissen.png)
+> ![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi/Accademia%20di%20Wissen.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
