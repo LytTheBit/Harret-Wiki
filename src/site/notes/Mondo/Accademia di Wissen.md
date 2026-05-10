@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Accademia di Wissen/","created":"2026-05-07T11:56:30.769+02:00","updated":"2026-05-08T14:50:19.431+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"Neutrale","Immagine":"[[Accademia di Wissen]]"}}
+{"dg-publish":true,"permalink":"/Mondo/Accademia di Wissen/","created":"2026-05-07T11:56:30.769+02:00","updated":"2026-05-09T23:20:26.459+02:00","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"Neutrale","Immagine":"[[Accademia di Wissen]]"}}
 ---
 
 # Accademia di Wissen
 
-> [!fas-infobox|right corners no-thead]
+> [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
 > # Accademia di Wissen
 > ![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi/Accademia%20di%20Wissen.png)
 > ## Dettagli
