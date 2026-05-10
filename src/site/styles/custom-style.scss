@@ -1,16 +1,3 @@
-
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-    /* Card layout per tabelle Dataview dei personaggi */
 body {
   main.cards .block-language-dataview.table-wrapper {
     display: flex !important;
@@ -34,9 +21,16 @@ body {
     width: 200px !important;
     border-radius: 8px !important;
     overflow: hidden !important;
-    background: #1e1e1e !important;
-    border: 1px solid #444 !important;
+    background: #1a1e24 !important;
+    border: 1px solid #652121 !important;
     text-align: center !important;
+    position: relative !important;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease !important;
+  }
+
+  main.cards .table-view-tbody tr:hover {
+    border-color: #c14343 !important;
+    box-shadow: 0 0 12px rgba(193, 67, 67, 0.4) !important;
   }
 
   main.cards .table-view-tbody td {
@@ -45,10 +39,33 @@ body {
     padding: 0 !important;
   }
 
+  main.cards .table-view-tbody td:last-child {
+    padding: 10px 8px !important;
+    font-size: 15px !important;
+    font-weight: bold !important;
+    color: #e5ebee !important;
+  }
+
+  main.cards .table-view-tbody td:last-child a {
+    color: #e5ebee !important;
+    text-decoration: none !important;
+    position: static !important;
+  }
+
+  main.cards .table-view-tbody td:last-child a::after {
+    content: "" !important;
+    position: absolute !important;
+    inset: 0 !important;
+    z-index: 1 !important;
+  }
+
+  main.cards .table-view-tbody td picture,
   main.cards .table-view-tbody td img {
     width: 100% !important;
-    height: 250px !important;
+    aspect-ratio: 3/4 !important;
+    height: auto !important;
     object-fit: cover !important;
-    object-position: top !important;
+    object-position: center top !important;
+    display: block !important;
   }
 }
