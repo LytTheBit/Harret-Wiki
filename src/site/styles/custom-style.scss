@@ -12,23 +12,28 @@ body {
     //  }
     /* Card layout per tabelle Dataview dei personaggi */
     body {
-      .dataview.table-view-div table {
+      .block-language-dataview.table-wrapper {
+        overflow: visible !important;
+      }
+    
+      .dataview.table-view-table {
         display: flex !important;
         flex-wrap: wrap !important;
+        gap: 16px !important;
         border: none !important;
       }
     
-      .dataview.table-view-div thead {
+      .table-view-thead {
         display: none !important;
       }
     
-      .dataview.table-view-div tbody {
+      .table-view-tbody {
         display: flex !important;
         flex-wrap: wrap !important;
         gap: 16px !important;
       }
     
-      .dataview.table-view-div tr {
+      .table-view-tbody tr {
         display: flex !important;
         flex-direction: column !important;
         width: 200px !important;
@@ -39,12 +44,12 @@ body {
         text-align: center !important;
       }
     
-      .dataview.table-view-div td {
+      .table-view-tbody td {
         border: none !important;
         padding: 8px !important;
       }
     
-      .dataview.table-view-div td img {
+      .table-view-tbody td img {
         width: 100% !important;
         height: 250px !important;
         object-fit: cover !important;
