@@ -11,49 +11,47 @@ body {
     //   color: black;
     //  }
     /* Card layout per tabelle Dataview dei personaggi */
-    body {
-      .block-language-dataview.table-wrapper {
-        overflow: visible !important;
-      }
-    
-      .dataview.table-view-table {
-        display: flex !important;
-        flex-wrap: wrap !important;
-        gap: 16px !important;
-        border: none !important;
-      }
-    
-      .table-view-thead {
-        display: none !important;
-      }
-    
-      .table-view-tbody {
-        display: flex !important;
-        flex-wrap: wrap !important;
-        gap: 16px !important;
-      }
-    
-      .table-view-tbody tr {
-        display: flex !important;
-        flex-direction: column !important;
-        width: 200px !important;
-        border-radius: 8px !important;
-        overflow: hidden !important;
-        background: #1e1e1e !important;
-        border: 1px solid #444 !important;
-        text-align: center !important;
-      }
-    
-      .table-view-tbody td {
-        border: none !important;
-        padding: 8px !important;
-      }
-    
-      .table-view-tbody td img {
-        width: 100% !important;
-        height: 250px !important;
-        object-fit: cover !important;
-        object-position: top !important;
-      }
-    }
+  .block-language-dataview.table-wrapper {
+    overflow: visible !important;
+  }
+
+  .dataview.table-view-table {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 16px !important;
+    border: none !important;
+  }
+
+  .table-view-thead {
+    display: none !important;
+  }
+
+  .table-view-tbody {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 16px !important;
+  }
+
+  .table-view-tbody tr {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 200px !important;
+    border-radius: 8px !important;
+    overflow: hidden !important;
+    background: #1e1e1e !important;
+    border: 1px solid #444 !important;
+    text-align: center !important;
+  }
+
+  .table-view-tbody td {
+    border: none !important;
+    padding: 8px !important;
+  }
+
+  .table-view-tbody td img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover !important;
+    object-position: top !important;
+  }
 }
