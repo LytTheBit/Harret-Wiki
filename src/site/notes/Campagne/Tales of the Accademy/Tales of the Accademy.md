@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-05-09T23:20:16.407+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":null,"Data di fine":null,"Players":["[[Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"[[Accademia di Wissen.png]]"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-05-10T19:24:49.829+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":null,"Data di fine":null,"Players":["[[Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi/Accademia%20di%20Wissen.png)"}}
 ---
 
 # Tales of the Academy
@@ -42,32 +42,20 @@ Stravagante, Spensierato, Misterioso, Eroico, Magico, Comico, Avventuroso
 Harry Potter, Persona, Percy Jackson, Fire Emblem: Three Houses, The Owl House, Pokémon Academy
 
 ## Sessioni
-```base
-filters:
-  and:
-    - file.inFolder("Campagne/Tales of the Accademy/Sessioni")
-views:
-  - type: cards
-    name: "Sessioni"
-    image: immagine
-    imageFit: cover
-    order:
-      - file.name
-```
+
+|    | Sessioni                                                              |
+| -- | --------------------------------------------------------------------- |
+| \- | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1\|Sessione 1]] |
+
+{ .block-language-dataview}
 
 ## Quest e misteri
-```base
-filters:
-  and:
-    - file.inFolder("Campagne/Tales of the Accademy/Quest e misteri")
-views:
-  - type: cards
-    name: "Quest e misteri"
-    image: immagine
-    imageFit: cover
-    order:
-      - file.name
-```
+|    | Sessioni                                                               |
+| -- | ---------------------------------------------------------------------- |
+| \- | [[Campagne/Tales of the Accademy/Quest e misteri/Quest 1\|Quest 1]] |
+
+{ .block-language-dataview}
+
 
 # Campaign Frame
 <iframe src="https://1drv.ms/b/c/27bbecfab8705da6/IQREsiREef2rSIkSDKIEqJpJAUSHXXQ7GDWaHODPmvhv83g" width="100%" height="900vh" frameborder="0" scrolling="no">

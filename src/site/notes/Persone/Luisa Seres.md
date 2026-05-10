@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Persone/Luisa Seres/","tags":["Player"],"created":"2026-05-07T18:08:17.035+02:00","updated":"2026-05-10T08:56:47.177+02:00","dg-note-properties":{"aliases":["Luisa","Lu"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"https://cdn-icons-png.flaticon.com/512/4838/4838856.png"}}
+{"dg-publish":true,"permalink":"/Persone/Luisa Seres/","tags":["Player"],"created":"2026-05-07T18:08:17.035+02:00","updated":"2026-05-10T19:22:02.280+02:00","dg-note-properties":{"aliases":["Luisa","Lu"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Luisa Seres.png](/img/user/0-Immagini/Foto%20Persone/Luisa%20Seres.png)"}}
 ---
 
 # Luisa Seres
