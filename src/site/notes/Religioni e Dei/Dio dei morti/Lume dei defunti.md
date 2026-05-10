@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/Dio dei morti/Lume dei defunti/","tags":["#Astro","Costellazione","Num5"],"created":"2026-05-09T19:56:15.731+02:00","updated":"2026-05-10T19:31:46.376+02:00","dg-note-properties":{"aliases":null,"tags":["#Astro","Costellazione","Num5"],"Template":"[[Costellazione]]","Cielo":"[[Quinto cielo]]","Dio associato":"[[Religioni e Dei/Dio dei morti/Dio dei morti\|Dio dei morti]]","Immagine":"![Lume dei defunti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Lume%20dei%20defunti.png)"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/Dio dei morti/Lume dei defunti/","tags":["#Astro","Costellazione","Num5"],"dg-note-properties":{"aliases":null,"tags":["#Astro","Costellazione","Num5"],"Template":"[[Costellazione]]","Cielo":"[[Quinto cielo]]","Dio associato":"[[Religioni e Dei/Dio dei morti/Dio dei morti\|Dio dei morti]]","Immagine":"![Lume dei defunti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Lume%20dei%20defunti.png)"}}
 ---
 
 # Tomo dei sapienti

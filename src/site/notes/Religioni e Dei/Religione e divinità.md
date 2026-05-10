@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/Religione e divinità/","contentClasses":"cards","tags":["#Lore"],"created":"2026-05-08T23:17:28.534+02:00","updated":"2026-05-10T19:37:55.254+02:00","dg-note-properties":{"aliases":["Divinità","Religione","Dei"],"tags":["#Lore"],"Template":"[[Info]]","Argomento":"Divinità su Harret"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/Religione e divinità/","contentClasses":"cards","tags":["#Lore"],"dg-note-properties":{"aliases":["Divinità","Religione","Dei"],"tags":["#Lore"],"Template":"[[Info]]","Argomento":"Divinità su Harret"}}
 ---
 
 # Religione e divinità

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Persone/Lorenzo Grassi/","tags":["Player"],"created":"2026-05-07T18:06:28.400+02:00","updated":"2026-05-10T19:21:59.576+02:00","dg-note-properties":{"aliases":["Lore","Grassi"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Lorenzo Grassi.png](/img/user/0-Immagini/Foto%20Persone/Lorenzo%20Grassi.png)"}}
+{"dg-publish":true,"permalink":"/Persone/Lorenzo Grassi/","tags":["Player"],"dg-note-properties":{"aliases":["Lore","Grassi"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Lorenzo Grassi.png](/img/user/0-Immagini/Foto%20Persone/Lorenzo%20Grassi.png)"}}
 ---
 
 # Lorenzo Grassi

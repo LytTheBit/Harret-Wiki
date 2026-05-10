@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","contentClasses":"cards","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-10T23:48:10.641+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Home/","contentClasses":"cards","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # Home
 
-Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... credo... ciao
+Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... credo... ciao... ciao
 
 ## Campagne
 Lista delle campagne della ambientazione.
