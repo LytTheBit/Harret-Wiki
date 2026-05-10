@@ -1,4 +1,4 @@
-body {
+
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
@@ -11,28 +11,25 @@ body {
     //   color: black;
     //  }
     /* Card layout per tabelle Dataview dei personaggi */
-  .block-language-dataview.table-wrapper {
-    overflow: visible !important;
-  }
-
-  .dataview.table-view-table {
+body {
+  .cards .dataview.table-view-table {
     display: flex !important;
     flex-wrap: wrap !important;
     gap: 16px !important;
     border: none !important;
   }
 
-  .table-view-thead {
+  .cards .table-view-thead {
     display: none !important;
   }
 
-  .table-view-tbody {
+  .cards .table-view-tbody {
     display: flex !important;
     flex-wrap: wrap !important;
     gap: 16px !important;
   }
 
-  .table-view-tbody tr {
+  .cards .table-view-tbody tr {
     display: flex !important;
     flex-direction: column !important;
     width: 200px !important;
@@ -43,12 +40,12 @@ body {
     text-align: center !important;
   }
 
-  .table-view-tbody td {
+  .cards .table-view-tbody td {
     border: none !important;
     padding: 8px !important;
   }
 
-  .table-view-tbody td img {
+  .cards .table-view-tbody td img {
     width: 100% !important;
     height: 250px !important;
     object-fit: cover !important;
