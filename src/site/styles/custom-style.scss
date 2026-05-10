@@ -19,18 +19,18 @@ body {
     display: flex !important;
     flex-direction: column !important;
     width: 200px !important;
-    border-radius: 8px !important;
+    border-radius: 4px !important;
     overflow: hidden !important;
-    background: #1a1e24 !important;
-    border: 1px solid #652121 !important;
+    background: #1a1a2e !important;
+    border: 1px solid #4a3a7a !important;
     text-align: center !important;
     position: relative !important;
     transition: border-color 0.2s ease, box-shadow 0.2s ease !important;
   }
 
   main.cards .table-view-tbody tr:hover {
-    border-color: #c14343 !important;
-    box-shadow: 0 0 12px rgba(193, 67, 67, 0.4) !important;
+    border-color: #7c5cbf !important;
+    box-shadow: 0 0 12px rgba(124, 92, 191, 0.4) !important;
   }
 
   main.cards .table-view-tbody td {
@@ -39,15 +39,25 @@ body {
     padding: 0 !important;
   }
 
+  main.cards .table-view-tbody td:first-child {
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 0 !important;
+    line-height: 0 !important;
+  }
+
   main.cards .table-view-tbody td:last-child {
     padding: 10px 8px !important;
-    font-size: 15px !important;
+    font-size: 14px !important;
     font-weight: bold !important;
-    color: #e5ebee !important;
+    font-family: "Courier New", monospace !important;
+    color: #c9b8e8 !important;
+    background: #12121f !important;
+    border-top: 1px solid #4a3a7a !important;
   }
 
   main.cards .table-view-tbody td:last-child a {
-    color: #e5ebee !important;
+    color: #c9b8e8 !important;
     text-decoration: none !important;
     position: static !important;
   }
