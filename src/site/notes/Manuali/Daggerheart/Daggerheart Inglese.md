@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Manuali/Daggerheart/Daggerheart Inglese/","tags":["#Daggerheart","Inglese"],"dg-note-properties":{"aliases":["Daggerheart manuale base"],"tags":["#Daggerheart","Inglese"],"Template":"[[Manuale]]"}}
+{"dg-publish":true,"permalink":"/Manuali/Daggerheart/Daggerheart Inglese/","tags":["#Daggerheart","Inglese"],"noteIcon":"Manuale","dg-note-properties":{"aliases":["Daggerheart manuale base"],"tags":["#Daggerheart","Inglese"],"Template":"[[Manuale]]"}}
 ---
 
 [**DOWNLOAD: Daggerheart - Core Rulebook.pdf**](https://1drv.ms/b/c/27bbecfab8705da6/IQBJcTXxKoF0QpGpWu97hQaqATfPmwVe8gIR0w07kDyjvYc?e=20CGak)

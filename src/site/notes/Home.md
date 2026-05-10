@@ -1,22 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","contentClasses":"cards","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Home/","contentClasses":"cards","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{}}
 ---
 
 # Home
 
-Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... credo... ciao... ciao
+Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... credo... ciao... ciao... ciao
 
 ## Campagne
 Lista delle campagne della ambientazione.
 |                                                                         | Campagne                                                                           |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| \-                                                                      | [[Campagne/Tales of the Accademy/Quest e misteri/Quest 1\|Quest 1]]             |
-| \-                                                                      | [[Campagne/Tales of the Accademy/Sessioni/Sessione 1\|Sessione 1]]              |
 | ![0-Immagini/Luoghi/Accademia di Wissen.png\|Accademia di Wissen.png](/img/user/0-Immagini/Luoghi/Accademia%20di%20Wissen.png) | [[Campagne/Tales of the Accademy/Tales of the Accademy\|Tales of the Accademy]] |
 
 { .block-language-dataview}
 
-WHERE contains(tags, "Campagna")
+
 
 ---
 ## Giocatori

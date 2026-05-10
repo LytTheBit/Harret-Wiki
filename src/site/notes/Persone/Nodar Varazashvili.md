@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Persone/Nodar Varazashvili/","tags":["Player"],"dg-note-properties":{"aliases":["Nodar","Lancelot"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Nodar Varazashvili.png](/img/user/0-Immagini/Foto%20Persone/Nodar%20Varazashvili.png)"}}
+{"dg-publish":true,"permalink":"/Persone/Nodar Varazashvili/","tags":["Player"],"noteIcon":"PersonaReale","dg-note-properties":{"aliases":["Nodar","Lancelot"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Nodar Varazashvili.png](/img/user/0-Immagini/Foto%20Persone/Nodar%20Varazashvili.png)"}}
 ---
 
 # Nodar Varazashvili

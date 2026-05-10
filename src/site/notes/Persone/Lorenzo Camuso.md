@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Persone/Lorenzo Camuso/","tags":["Player"],"dg-note-properties":{"aliases":["Camiu"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Lorenzo Camuso.png](/img/user/0-Immagini/Foto%20Persone/Lorenzo%20Camuso.png)"}}
+{"dg-publish":true,"permalink":"/Persone/Lorenzo Camuso/","tags":["Player"],"noteIcon":"PersonaReale","dg-note-properties":{"aliases":["Camiu"],"tags":["Player"],"Template":"[[Persona Reale]]","Sesso":"Maschio","Nascita":"04/05/2001","Immagine":"![Lorenzo Camuso.png](/img/user/0-Immagini/Foto%20Persone/Lorenzo%20Camuso.png)"}}
 ---
 
 # Lorenzo Camuso
