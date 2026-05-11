@@ -4,7 +4,7 @@
 
 # Dio della conoscenza
 
-> [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
+> [!infobox|right]
 > # Dio della conoscenza
 > ![Dio della conoscenza.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)
 > ## Dettagli

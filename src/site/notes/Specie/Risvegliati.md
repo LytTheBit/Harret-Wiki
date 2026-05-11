@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Specie/Risvegliati/","tags":["Specie","Senziente","Risvegliato"],"dg-note-properties":{"aliases":["Awoken"],"tags":["Specie","Senziente","Risvegliato"],"Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/Risvegliato.png)","Stirpe":"Quinta stirpe"}}
+{"dg-publish":true,"permalink":"/Specie/Risvegliati/","contentClasses":"dg-cards","tags":["Specie","Senziente","Risvegliato"],"dg-note-properties":{"aliases":["Awoken"],"tags":["Specie","Senziente","Risvegliato"],"Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/0-Immagini/Specie%20immagini/Risvegliato.png)","Stirpe":"Quinta stirpe"}}
 ---
 
 # Risvegliati
 > [!infobox|right]
 > # Risvegliato
-> ![Risvegliato.png](/img/user/Risvegliato.png)
+> ![Risvegliato.png](/img/user/0-Immagini/Specie%20immagini/Risvegliato.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -23,7 +23,9 @@ I Risvegliati sono un particolare tipo di golem di recente invenzione.
 In quanto costrutti i Risvegliati sono solito abitare ovunque vi siano umani o altre specie senzienti. Pertanto la maggior parte vive su Harret.
 
 ## Origini
-I Risvegliati sono l'ultima scoperta in ambito golem della gilda di Konstrukt. I segreti per la loro creazione sono ancora super segreti. Solo i membri di più alto rango della gilda ne sono a conoscenza. 
+I Risvegliati sono l'ultima scoperta in ambito golem della [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]]. I segreti per la loro creazione sono ancora super segreti. Solo i membri di più alto rango della gilda ne sono a conoscenza. 
+
+Al momento sono i circolazione solo i Risvegliati di prima e di seconda generazione.
 
 ## Cultura e tradizioni
 I Risvegliati sono ancora una specie giovane e non hanno avuto tempo di formare una cultura propria. Hanno perciò ereditato molte tradizioni dagli umani e dalle altre specie che hanno attorno.
@@ -31,7 +33,8 @@ I Risvegliati sono ancora una specie giovane e non hanno avuto tempo di formare 
 ## Rapporti con le altre specie
 Molte persone guardano con sospetto i Risvegliati, alcuni li ritengono una minaccia mentre altri li considerano una grande opportunità.
 
-|   | Galapa |
-| - | ------ |
+## Risvegliati degni di nota
+|   | Risvegliati |
+| - | ----------- |
 
 { .block-language-dataview}

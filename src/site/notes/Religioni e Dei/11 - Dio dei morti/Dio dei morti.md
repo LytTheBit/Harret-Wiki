@@ -4,7 +4,7 @@
 
 # Dio dei morti
 
-> [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
+> [!infobox|right]
 > # Dio dei morti
 > ![Dio dei morti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)
 > ## Dettagli

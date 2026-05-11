@@ -8,12 +8,13 @@ Gli dei sono coloro che hanno plasmato il mondo dal [[caos primordiale\|caos pri
 
 ## Storia e mito
 Secondo il mito, gli Dei nacquero dal caos primordiale causato dallo scontro del [[piano eterno\|piano eterno]] e del [[piano onirico\|piano onirico]], proprio come gli [[Arcidraghi\|Arcidraghi]].
-Inizio cosi una guerra tra gli Dei e gli Arcidraghi, i primi volevano portare ordine e pace, mentre i secondi volevano mantenere il caos e la guerra.
-Alla fine del conflitto, che a seconda del mito ha durate differenti, gli Dei vinsero, uccidendo il Re degli Arcidraghi mentre gli altri fuggirono a nascondersi per il [[Cosmo\|Cosmo]].
+Inizio cosi una guerra tra gli Dei e gli Arcidraghi. Che passò alla storia come [[La prima guerra\|La prima guerra]]. 
+Gli dei volevano portare ordine e pace, mentre i draghi volevano mantenere il caos e la l'oscurità.
+Alla fine del conflitto, che a seconda del mito ha durate differenti, gli Dei vinsero, uccidendo il [[Re degli Arcidraghi\|Re degli Arcidraghi]] mentre gli altri fuggirono a nascondersi per il [[Cosmo\|Cosmo]].
 
 Gli Dei iniziarono quindi a ricostruire il [[Cosmo\|Cosmo]]:
-Nel luogo della loro vittoria, crearono il nuovo centro del Cosmo, e il pianeta più grande. Harret.
-Crearono il sole e la luna per alternare il giorno e la notte.
+Nel luogo della loro vittoria, crearono il nuovo centro del Cosmo, e il pianeta più grande. [[Harret\|Harret]].
+Crearono il [[sole\|sole]] e la [[luna\|luna]] per alternare il giorno e la notte.
 Crearono poi sei pianeti minori per mantenere l'equilibrio tra i piani di esistenza, e alternare le stagioni.
 E infine crearono le loro dimore, le [[Costellazioni\|Costellazioni]], dove riposare e guardare il mondo da loro creato.
 
@@ -22,7 +23,7 @@ Esistono 12 divinità su Harret. Come i 12 mesi e le 12 costellazioni.
 |                                                                                                       | Divinità                                                                                   |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | ![0-Immagini/Costellazioni e Dei/11 - morte/Dio dei morti.png\|Dio dei morti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)                   | [[Religioni e Dei/11 - Dio dei morti/Dio dei morti\|Dio dei morti]]                     |
-| ![Dio del sole.png\|Dio del sole.png](/img/user/Dio%20del%20sole.png)                                                               | [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Dio del sole]]                         |
+| ![0-Immagini/Costellazioni e Dei/Dio del sole.png\|Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Dio%20del%20sole.png)                                | [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Dio del sole]]                         |
 | ![0-Immagini/Costellazioni e Dei/5 - conoscenza/Dio della conoscenza.png\|Dio della conoscenza.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png) | [[Religioni e Dei/5 - Dio della conoscenza/Dio della conoscenza\|Dio della conoscenza]] |
 
 { .block-language-dataview}

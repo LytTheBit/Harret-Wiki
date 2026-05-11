@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/6 - Dio del sole/Dio del sole/","tags":["#dio","#uomo","Num6"],"dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["#dio","#uomo","Num6"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":null,"Mese":"[[6° mese\|6° mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Nome":"Aurelius","Immagine":"![Dio del sole.png](/img/user/Dio%20del%20sole.png)"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/6 - Dio del sole/Dio del sole/","tags":["#dio","#uomo","Num6"],"dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["#dio","#uomo","Num6"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":null,"Mese":"[[6° mese\|6° mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Nome":"Aurelius","Immagine":"![Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Dio%20del%20sole.png)"}}
 ---
 
 # Dio del sole
 
-> [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
-> # Dio della conoscenza
-> ![Dio del sole.png](/img/user/Dio%20del%20sole.png)
+> [!infobox|right]
+> # Dio del sole
+> ![Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Dio%20del%20sole.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -27,25 +27,23 @@ Su questo argomento in passato sono stata combattute guerre intere
 
 
 ## Aspetto
-Memor è spesso raffigurato con un volto da bestia e un corpo fatto di fogli e carta. La sua rappresentazione però varia a seconda l'area geografica.
-- Nei paesi più a nord il suo volto è spesso quello di un gufo, e il suo corpo è fatto di pagine di carta inscritte di rune magiche.
-- Al sud spesso ha un volto da sciacallo e un vestito fatto da pergamene inscritte di geroglifici.
-- Nel est invece si tende a darli il volto di una volpe, con un corpo fatto di kanji incisi su lastre di bambu
+Aurelius è rappresentato come un uomo alto e muscoloso, con barba e capelli di fuoco. Ha spesso indosso indumenti da nobile o generale, che variano da paese a paese.
 
-La rappresentazione più comune è spesso quella del sud, visto che è in quelle zone in cui il suo culto è più diffuso
 ## Religione
-...
+La religione più diffusa del dio della luce è l'[[Ordine dei radianti\|Ordine dei radianti]]. E' una religione molto diffusa e con una struttura gerarchica ben definita. 
 
 ## Miti e tradizioni
 
 #### Funerali
 ...
 
-#### Mito: Il dono della luce
-...
+#### Mito: la prima luce
+Nei miti, si racconta di come [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Aurelius]] durante il caos primordiale e la [[La prima guerra\|guerra]] con gli [[Arcidraghi\|Arcidraghi]] abbia creato *la prima luce*, per poter illuminare il buio assoluto che inghiottiva il mondo a quel tempo. Con questa luce [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Aurelius]] guidò i suoi compagni alla vittoria.
 
-#### Mito: ...
-...
+#### Mito: la creazione del sole
+Si racconta di come, una volta finita la guerra. Quando gli altri dei si dedicavano alla creazione dei pianeti e delle prime specie. [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Aurelius]] prese una ciocca della sua chioma, e da quella forgiò il sole. Lo fece poi ruotare attorno ad [[Harret\|Harret]] con i suoi poteri per scandire l'alternarsi del giorno e della notte.
+
+
 
 ## Costellazione: Sole del mattino
 Il [[Sole del mattino\|Sole del mattino]] è la costellazione legata a [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Aurelius]], il Dio del Sole. Appare in cielo per circa cinque mesi da circa il [[4° mese\|4° mese]] al [[8° mese\|8° mese]] del anno, ma è durante il [[6° mese\|6° mese]] che risplende di tutta la sua luce.

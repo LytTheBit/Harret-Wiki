@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Specie/Galapa/","tags":["Specie","Senziente","Galapa"],"dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![Galapa.png](/img/user/Galapa.png)","Stirpe":"Terza stirpe"}}
+{"dg-publish":true,"permalink":"/Specie/Galapa/","contentClasses":"dg-cards","tags":["Specie","Senziente","Galapa"],"dg-note-properties":{"aliases":["Tortle"],"tags":["Specie","Senziente","Galapa"],"Template":"[[Specie Senziente]]","Immagine":"![Galapa.png](/img/user/0-Immagini/Specie%20immagini/Galapa.png)","Stirpe":"Terza stirpe"}}
 ---
 
 # GALAPA
 > [!infobox|right]
 > # Galapa
-> ![Galapa.png](/img/user/Galapa.png)
+> ![Galapa.png](/img/user/0-Immagini/Specie%20immagini/Galapa.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
