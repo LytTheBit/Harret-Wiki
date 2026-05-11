@@ -26,6 +26,7 @@ body {
     text-align: center !important;
     position: relative !important;
     isolation: isolate !important;
+    cursor: pointer !important;
     transition: border-color 0.2s ease 0.05s, box-shadow 0.2s ease 0.05s !important;
   }
 
@@ -38,6 +39,7 @@ body {
     display: block !important;
     border: none !important;
     padding: 0 !important;
+    pointer-events: none !important;
   }
 
   main.dg-cards .table-view-tbody td:first-child {
@@ -61,6 +63,7 @@ body {
     color: #c9b8e8 !important;
     text-decoration: none !important;
     position: static !important;
+    pointer-events: none !important;
   }
 
   main.dg-cards .table-view-tbody td:last-child a::after {
@@ -70,6 +73,7 @@ body {
     z-index: 10 !important;
     cursor: pointer !important;
     pointer-events: all !important;
+    display: block !important;
   }
 
   main.dg-cards .table-view-tbody td picture,
