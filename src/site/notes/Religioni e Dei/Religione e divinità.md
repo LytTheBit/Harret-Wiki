@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/Religione e divinità/","contentClasses":"dg-cards","tags":["#Lore"],"noteIcon":"Info","dg-note-properties":{"aliases":["Divinità","Religione","Dei"],"tags":["#Lore"],"Template":"[[Info]]","Argomento":"Divinità su Harret"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/Religione e divinità/","contentClasses":"dg-cards","tags":["#Lore"],"dg-note-properties":{"aliases":["Divinità","Religione","Dei"],"tags":["#Lore"],"Template":"[[Info]]","Argomento":"Divinità su Harret"}}
 ---
 
 # Religione e divinità
@@ -19,10 +19,11 @@ E infine crearono le loro dimore, le [[Costellazioni\|Costellazioni]], dove ripo
 
 ## Le divinità
 Esistono 12 divinità su Harret. Come i 12 mesi e le 12 costellazioni.
-|                                                                                                       | Divinità                                                                               |
-| ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| ![0-Immagini/Costellazioni e Dei/11 - morte/Dio dei morti.png\|Dio dei morti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)                   | [[Religioni e Dei/Dio dei morti/Dio dei morti\|Dio dei morti]]                      |
-| ![0-Immagini/Costellazioni e Dei/5 - conoscenza/Dio della conoscenza.png\|Dio della conoscenza.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png) | [[Religioni e Dei/Dio della conoscenza/Dio della conoscenza\|Dio della conoscenza]] |
+|                                                                                                       | Divinità                                                                                   |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| ![0-Immagini/Costellazioni e Dei/11 - morte/Dio dei morti.png\|Dio dei morti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Dio%20dei%20morti.png)                   | [[Religioni e Dei/11 - Dio dei morti/Dio dei morti\|Dio dei morti]]                     |
+| ![Dio del sole.png\|Dio del sole.png](/img/user/Dio%20del%20sole.png)                                                               | [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Dio del sole]]                         |
+| ![0-Immagini/Costellazioni e Dei/5 - conoscenza/Dio della conoscenza.png\|Dio della conoscenza.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png) | [[Religioni e Dei/5 - Dio della conoscenza/Dio della conoscenza\|Dio della conoscenza]] |
 
 { .block-language-dataview}
 ## Le religioni
@@ -38,9 +39,9 @@ Ci sono detti e credenze sulle costellazioni, ma la maggior parte non è mai sta
 #### I santi
 Si dice che i servitori più fedeli e potenti degli dei, quelli che comunemente chiamiamo "Santi", alla morte ascendono al cielo e raggiungono i loro signori divini diventando stelle della loro costellazione. Si possono quindi notare gli dei più influenti dal numero di stelle nella loro costellazione. 
 
-|                                                                                                 | Divinità                                                                         |
-| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| ![0-Immagini/Costellazioni e Dei/11 - morte/Lume dei defunti.png\|Lume dei defunti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Lume%20dei%20defunti.png)       | [[Religioni e Dei/Dio dei morti/Lume dei defunti\|Lume dei defunti]]          |
-| ![0-Immagini/Costellazioni e Dei/5 - conoscenza/Tomo dei sapienti.png\|Tomo dei sapienti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Tomo%20dei%20sapienti.png) | [[Religioni e Dei/Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]] |
+|                                                                                                 | Divinità                                                                             |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| ![0-Immagini/Costellazioni e Dei/11 - morte/Lume dei defunti.png\|Lume dei defunti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/11%20-%20morte/Lume%20dei%20defunti.png)       | [[Religioni e Dei/11 - Dio dei morti/Lume dei defunti\|Lume dei defunti]]         |
+| ![0-Immagini/Costellazioni e Dei/5 - conoscenza/Tomo dei sapienti.png\|Tomo dei sapienti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Tomo%20dei%20sapienti.png) | [[Religioni e Dei/5 - Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]] |
 
 { .block-language-dataview}

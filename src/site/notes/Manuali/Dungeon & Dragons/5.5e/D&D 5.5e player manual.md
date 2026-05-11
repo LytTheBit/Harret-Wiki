@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Manuali/Dungeon & Dragons/5.5e/D&D 5.5e player manual/","tags":["DnD","55e","Italiano"],"noteIcon":"Manuale","dg-note-properties":{"aliases":null,"tags":["DnD","55e","Italiano"],"Template":"[[Manuale]]"}}
+{"dg-publish":true,"permalink":"/Manuali/Dungeon & Dragons/5.5e/D&D 5.5e player manual/","tags":["DnD","55e","Italiano"],"dg-note-properties":{"aliases":null,"tags":["DnD","55e","Italiano"],"Template":"[[Manuale]]"}}
 ---
 
 [**DOWNLOAD: D&D 5e 2024 - Manuale del Giocatore.pdf**](https://1drv.ms/b/c/27bbecfab8705da6/IQDD1EyTQLMcQqpiM63Y_5G7AfLZWze6miiqU5OHip_zvfY?e=CuCVEC)

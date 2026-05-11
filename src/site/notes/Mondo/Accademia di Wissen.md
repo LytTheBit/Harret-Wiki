@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mondo/Accademia di Wissen/","noteIcon":"Posto","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"Neutrale","Immagine":"[[Accademia di Wissen]]"}}
+{"dg-publish":true,"permalink":"/Mondo/Accademia di Wissen/","dg-note-properties":{"aliases":["Wissen","l'Accademia"],"tags":null,"Template":"[[Posto]]","Tipo":"Istituzione","Regione":"[[Vette Grigie\|Vette Grigie]]","Affiliazione":"Neutrale","Immagine":"[[Accademia di Wissen]]"}}
 ---
 
 # Accademia di Wissen

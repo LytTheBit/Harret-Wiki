@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Manuali/Dungeon & Dragons/5e/D&D 5e Manuale dei Mostri/","tags":["DnD","5e","Italiano"],"noteIcon":"Manuale","dg-note-properties":{"aliases":["MM"],"tags":["DnD","5e","Italiano"],"Template":"[[Manuale]]"}}
+{"dg-publish":true,"permalink":"/Manuali/Dungeon & Dragons/5e/D&D 5e Manuale dei Mostri/","tags":["DnD","5e","Italiano"],"dg-note-properties":{"aliases":["MM"],"tags":["DnD","5e","Italiano"],"Template":"[[Manuale]]"}}
 ---
 
 [**DOWNLOAD: D&D 5e 2014 - Manuale dei Mostri.pdf**](https://1drv.ms/b/c/27bbecfab8705da6/IQCsjkOtAAAeSbx96rMsm_hPAc3IJDXIDYzAeF1Cx1OWPHs?e=KVWHgN)
