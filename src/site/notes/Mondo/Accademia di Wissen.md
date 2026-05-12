@@ -89,7 +89,7 @@ Lo Studentato ospita numerosi club, alcuni ufficiali e altri tolleratia malapena
 Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalzano in modo imprevedibile sulle pareti dello Stadio.
 
 ## Studenti
-![Uniformi studenti Wissen.png\|right\|300](/img/user/Uniformi%20studenti%20Wissen.png) Originariamente l'accademia era pensata per ospitare solo uomini di origine nobile. Ben presto si è espansa per poter ospitare anche le nobildonne e infine ha aperto le porte a chiunque potesse permettersi di pagare la lettera e di ricevere una raccomandazione. Cominciando inoltre ad offrire borse di studio per gli studenti più in difficoltà economica.
+![Uniformi studenti Wissen.png\|right\|300](/img/user/0-Immagini/Uniformi%20studenti%20Wissen.png) Originariamente l'accademia era pensata per ospitare solo uomini di origine nobile. Ben presto si è espansa per poter ospitare anche le nobildonne e infine ha aperto le porte a chiunque potesse permettersi di pagare la lettera e di ricevere una raccomandazione. Cominciando inoltre ad offrire borse di studio per gli studenti più in difficoltà economica.
 Al momento l'accademia conta più di mille studenti. Anche se è curioso notare come la maggior parte siano studenti dei primi anni, visto che molti tendono ad abbandonare visti i rigidi requisiti del accademia. O a fermarsi dopo il *ciclo triennale* di studi.
 |    | Studenti                                                                     |
 | -- | ---------------------------------------------------------------------------- |
