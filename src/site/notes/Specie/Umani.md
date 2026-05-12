@@ -34,9 +34,9 @@ Gli umani sono estremamente diffusi, cosa che ha portato a innumerevoli variazio
 Il rapporto con le altre specie varia molto da persona a persona. Sono molto diffusi, e sanno specializzarsi molto bene in molti ambiti differenti, per cui è difficile ignorarli. Ma sono anche per questo spesso temuti.
 
 ## Umani degni di nota
-|    | Umani                                                                        |
-| -- | ---------------------------------------------------------------------------- |
-| \- | [[Personaggi/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
+|                                    | Umani                                                                        |
+| ---------------------------------- | ---------------------------------------------------------------------------- |
+| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
 
 { .block-language-dataview}
 

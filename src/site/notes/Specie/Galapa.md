@@ -36,8 +36,8 @@ Alcuni di loro sono anche ottimi soldati. I loro legionari sono famosi per la lo
 Sono tendenzialmente ben visti. Alcuni li temono per via della loro natura da rettile e possibile collegamento ai draghi. Ma secoli di commerci sicuri hanno portato i Galapa ad essere considerati dai più come brave persone e amici fedeli
 
 ## Galapa degni di nota
-|    | Galapa                               |
-| -- | ------------------------------------ |
-| \- | [[Personaggi/Matamata\|Matamata]] |
+|                                    | Galapa                               |
+| ---------------------------------- | ------------------------------------ |
+| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/Matamata\|Matamata]] |
 
 { .block-language-dataview}
