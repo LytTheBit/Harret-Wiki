@@ -4,7 +4,7 @@
 
 # Accademia di Wissen
 
-> [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
+> [!infobox|right]
 > # Accademia di Wissen
 > ![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi/Accademia%20di%20Wissen.png)
 > ## Dettagli
@@ -25,12 +25,12 @@
 > | Insegnante di arte | ... |
 > | Insegnante di religione | ... |
 > | Insegnante di natura | ... |
-> > [!footer]
-> > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
 
 ## Descrizione
 
 L'Accademia di Wissen è una prestigiosa università per eroi, costruita in zona neutrale sulla catena montuosa delle [[Vette Grigie\|Vette Grigie]]. Fu fondata seicento anni fa da tre valorosi eroi dopo aver sconfitto un antico drago, e oggi conta sei percorsi di studi.
+
+E' l'ambientazione principale della campagna [[Campagne/Tales of the Accademy/Tales of the Accademy\|Tales of the Accademy]]
 
 ## Storia
 L'accademia fu fondata seicento anni fa da tre valorosi eroi che, dopo aver salvato il mondo da un antico drago che minacciava il continente, decisero di erigere una scuola sul monte stesso in cui sconfissero la bestia, affinché le generazioni future potessero imparare dalle
@@ -59,7 +59,7 @@ Ogni studente può scegliere una facoltà in cui specializzarsi.
 Nel corso degli anni scolastici le lezioni di specializzazione diventano sempre più importanti, e agli studenti viene chiesto di scegliere una seconda specializzazione. 
 
 
-![armoria_2026-05-06-15-51-44.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-51-44.png) ![armoria_2026-05-06-15-52-23.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-52-23.png) ![armoria_2026-05-06-15-53-09.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-53-09.png) ![armoria_2026-05-06-15-53-40.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-53-40.png) ![armoria_2026-05-06-15-54-24.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-54-24.png) ![armoria_2026-05-06-15-57-19.png\|220](/img/user/0-Immagini/Stendardi/armoria_2026-05-06-15-57-19.png) 
+![armoria_2026-05-06-15-51-44.png\|220](/img/user/0-Immagini/Stendardi/Accademia/armoria_2026-05-06-15-51-44.png) ![armoria_2026-05-06-15-52-23.png\|220](/img/user/0-Immagini/Stendardi/Accademia/armoria_2026-05-06-15-52-23.png) ![armoria_2026-05-06-15-53-09.png\|220](/img/user/0-Immagini/Stendardi/Accademia/armoria_2026-05-06-15-53-09.png) ![armoria_2026-05-06-15-53-40.png\|220](/img/user/0-Immagini/Stendardi/Accademia/armoria_2026-05-06-15-53-40.png) ![armoria_2026-05-06-15-54-24.png\|220](/img/user/0-Immagini/Stendardi/Accademia/armoria_2026-05-06-15-54-24.png) ![armoria_2026-05-06-15-57-19.png\|220](/img/user/0-Immagini/Stendardi/Accademia/armoria_2026-05-06-15-57-19.png) 
 ## Gli Edifici
 
 Il complesso è distribuito su cinque altopiani collegati da scale e ponti soprelevati.
@@ -87,3 +87,12 @@ Lo Studentato ospita numerosi club, alcuni ufficiali e altri tolleratia malapena
 ## Gli Sport: 
 #### BowBall
 Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalzano in modo imprevedibile sulle pareti dello Stadio.
+
+## Studenti
+|    | Studenti                                                                     |
+| -- | ---------------------------------------------------------------------------- |
+| \- | [[Personaggi/D1-X0N\|D1-X0N]]                                             |
+| \- | [[Personaggi/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
+| \- | [[Personaggi/Matamata\|Matamata]]                                         |
+
+{ .block-language-dataview}

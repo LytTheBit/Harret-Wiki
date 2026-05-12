@@ -4,7 +4,7 @@
 
 # Lorenzo Camuso
 
-> [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
+> [!infobox|right]
 > # Lorenzo Camuso
 > ![Lorenzo Camuso.png](/img/user/0-Immagini/Foto%20Persone/Lorenzo%20Camuso.png)
 > ## Dettagli
@@ -13,6 +13,4 @@
 > | Sesso | M | 
 > | Compleanno | 11/05 |
 > | Anno di nascita | 2001 |
-> > [!footer]
-> > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
 

@@ -4,7 +4,7 @@
 
 # Luisa Seres
 
-> [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
+> [!infobox|right]
 > # Luisa Seres
 > ![Luisa Seres.png](/img/user/0-Immagini/Foto%20Persone/Luisa%20Seres.png)
 > ## Dettagli
@@ -13,6 +13,5 @@
 > | Sesso | F | 
 > | Compleanno | 28/02 |
 > | Anno di nascita | 2002 |
-> > [!footer]
-> > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
+
 

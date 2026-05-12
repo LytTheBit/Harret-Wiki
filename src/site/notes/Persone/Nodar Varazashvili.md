@@ -4,7 +4,7 @@
 
 # Nodar Varazashvili
 
-> [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
+> [!infobox|right]
 > # Nodar Varazashvili
 > ![Nodar Varazashvili.png](/img/user/0-Immagini/Foto%20Persone/Nodar%20Varazashvili.png)
 > ## Dettagli
@@ -13,6 +13,5 @@
 > | Sesso | M | 
 > | Compleanno | 28/05 |
 > | Anno di nascita | 2001 |
-> > [!footer]
-> > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
+
 

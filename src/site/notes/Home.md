@@ -3,7 +3,6 @@
 ---
 
 # Home
-
 Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... 
 
 ## Campagne

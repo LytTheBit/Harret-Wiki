@@ -1,0 +1,42 @@
+---
+{"dg-publish":true,"permalink":"/Specie/Umani/","contentClasses":"dg-cards","tags":["Specie","Senziente","Umano"],"dg-note-properties":{"aliases":["Tallman"],"tags":["Specie","Senziente","Umano"],"Template":"[[Specie Senziente]]","Immagine":"![Umani.jpg](/img/user/0-Immagini/Specie%20immagini/Umani.jpg)","Stirpe":"Quarta stirpe"}}
+---
+
+# Umani
+> [!infobox|right]
+> # Umani
+> ![Umani.jpg](/img/user/0-Immagini/Specie%20immagini/Umani.jpg)
+> ## Dettagli
+> | Voce | Valore |
+> |------|---------|
+> | Pianeti | [[Harret\|Harret]]|
+> | Altezza tipica | dai 1,5 ai 2m |
+> | Longevità | 80~100 |
+> ## Regolamento
+> - [Daggerheart](https://app.demiplane.com/nexus/daggerheart/ancestries/human)
+> - [D&D 5e](https://dnd5e.wikidot.com/lineage:human)
+> - [D&D 5,5e](http://dnd2024.wikidot.com/species:human)
+
+Gli umani sono la specie più comune al mondo. Dotati di capacità di adattamento straordinarie, e una capacità sorprendente di camminare lunghe distanze senza stancarsi. Nel età antica erano per questo spesso chiamati *camminatori*
+
+## Habitat
+Grazie alla loro incredibile capacità di adattarsi è possibile trovare umani un pò per tutto il [[Cosmo\|Cosmo]]. Ma è indubbio che il loro pianeta preferito sia [[Harret\|Harret]], di cui sono anche la specie più comune.
+
+## Origini
+Si racconta che gli umani siano la prima specie creata dagli dei dopo la prima guerra. Sono stati un lavoro congiunto, che ha poi fatto da modello per le specie successive. O almeno cosi si racconta e viene spiegata la loro diffusione.
+
+
+## Cultura e tradizioni
+Gli umani sono estremamente diffusi, cosa che ha portato a innumerevoli variazioni di culture e tradizioni. Delle cose rimangono però molto comuni: Sono molto ben organizzati, con strutture di comando, governi e dinastie. Si ipotizza che abbiano inventato loro il concetto di nobiltà.
+
+
+## Rapporti con le altre specie
+Il rapporto con le altre specie varia molto da persona a persona. Sono molto diffusi, e sanno specializzarsi molto bene in molti ambiti differenti, per cui è difficile ignorarli. Ma sono anche per questo spesso temuti.
+
+## Umani degni di nota
+|    | Umani                                                                        |
+| -- | ---------------------------------------------------------------------------- |
+| \- | [[Personaggi/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
+
+{ .block-language-dataview}
+

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Gilde/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["#Gilda","#Fazione","Konstrukt"],"dg-note-properties":{"aliases":null,"tags":["#Gilda","#Fazione","Konstrukt"],"Template":"[[Gilda]]","Sede":"[[Posto]]","Capo":null,"Tipo di gilda":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/0-Immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Gilde/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["#Gilda","#Fazione","Konstrukt"],"dg-note-properties":{"aliases":null,"tags":["#Gilda","#Fazione","Konstrukt"],"Template":"[[Gilda]]","Sede":"[[Posto]]","Capo":null,"Tipo di gilda":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
 ---
 
 
 # Gilda di Konstrukt
 > [!infobox|right]
 > # Gilda di Konstrukt
-> ![Gilda di Konstrukt.png](/img/user/0-Immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)
+> ![Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Gilda%20di%20Konstrukt.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -25,7 +25,8 @@ Konstrukt mantiene inoltre enormi archivi segreti sui processi di creazione dei 
 La gilda gode di grande influenza politica e accademica, avendo rapporti diretti con l’[[Mondo/Accademia di Wissen\|Accademia di Wissen]]. 
 
 ## Membri della Gilda di Konstrukt
-|   | Membri della Gilda di Konstrukt |
-| - | ------------------------------- |
+|    | Membri della Gilda di Konstrukt  |
+| -- | -------------------------------- |
+| \- | [[Personaggi/D1-X0N\|D1-X0N]] |
 
 { .block-language-dataview}

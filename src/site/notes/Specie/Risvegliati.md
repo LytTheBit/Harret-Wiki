@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Specie/Risvegliati/","contentClasses":"dg-cards","tags":["Specie","Senziente","Risvegliato"],"dg-note-properties":{"aliases":["Awoken"],"tags":["Specie","Senziente","Risvegliato"],"Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/0-Immagini/Specie%20immagini/Risvegliato.png)","Stirpe":"Quinta stirpe"}}
+{"dg-publish":true,"permalink":"/Specie/Risvegliati/","contentClasses":"dg-cards","tags":["Specie","Senziente","Risvegliato"],"dg-note-properties":{"aliases":["Awoken","Risvegliato"],"tags":["Specie","Senziente","Risvegliato"],"Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/0-Immagini/Specie%20immagini/Risvegliato.png)","Stirpe":"Quinta stirpe"}}
 ---
 
 # Risvegliati
@@ -34,7 +34,8 @@ I Risvegliati sono ancora una specie giovane e non hanno avuto tempo di formare 
 Molte persone guardano con sospetto i Risvegliati, alcuni li ritengono una minaccia mentre altri li considerano una grande opportunità.
 
 ## Risvegliati degni di nota
-|   | Risvegliati |
-| - | ----------- |
+|    | Risvegliati                      |
+| -- | -------------------------------- |
+| \- | [[Personaggi/D1-X0N\|D1-X0N]] |
 
 { .block-language-dataview}

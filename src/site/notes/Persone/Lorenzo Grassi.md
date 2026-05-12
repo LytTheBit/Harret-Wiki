@@ -4,7 +4,7 @@
 
 # Lorenzo Grassi
 
-> [!fas-infobox|right corners no-thead]  <!-- infobox a destra, angoli decorati, tabella senza header -->
+> [!infobox|right]
 > # Lorenzo Grassi
 > ![Lorenzo Grassi.png](/img/user/0-Immagini/Foto%20Persone/Lorenzo%20Grassi.png)
 > ## Dettagli
@@ -13,6 +13,4 @@
 > | Sesso | M | 
 > | Compleanno | 05/09 |
 > | Anno di nascita | 2002 |
-> > [!footer]
-> > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
 
