@@ -3,7 +3,7 @@
 ---
 
 # Home
-Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... 
+Benvenuti su [[Harret\|Harret]]... non c'è niente qui per ora... titolo
 
 ## Campagne
 Lista delle campagne della ambientazione.
