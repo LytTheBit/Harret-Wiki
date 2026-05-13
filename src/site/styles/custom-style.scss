@@ -85,4 +85,29 @@ body {
     object-position: center top !important;
     display: block !important;
   }
+
+
+
+  /* Float immagini */
+  img[alt*="right"] {
+    float: right;
+    margin-left: 1.2rem;
+    margin-bottom: 0.5rem;
+    max-width: 300px;
+    width: 40%;
+  }
+
+  img[alt*="left"] {
+    float: left;
+    margin-right: 1.2rem;
+    margin-bottom: 0.5rem;
+    max-width: 300px;
+    width: 40%;
+  }
+
+  /* Clearfix sui titoli */
+  article h2,
+  article h3 {
+    clear: both;
+  }
 }
