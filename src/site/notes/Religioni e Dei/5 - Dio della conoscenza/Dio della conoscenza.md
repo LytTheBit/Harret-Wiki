@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/5 - Dio della conoscenza/Dio della conoscenza/","tags":["#dio","#uomo","Num5"],"dg-note-properties":{"aliases":["Memor"],"tags":["#dio","#uomo","Num5"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Libri","Conoscenze","Mente"],"Culti":["[[Ordine dei sapienti\|Ordine dei sapienti]]"],"Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Religioni e Dei/5 - Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]]","Nome":"Memor","Immagine":"![Dio della conoscenza.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/5 - Dio della conoscenza/Dio della conoscenza/","tags":["#dio","Num5","Maschio"],"dg-note-properties":{"aliases":["Memor"],"tags":["#dio","Num5","Maschio"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Libri","Conoscenze","Mente"],"Culti":["[[Ordine dei sapienti\|Ordine dei sapienti]]"],"Mese":"[[5° mese\|5° mese]]","Costellazione":"[[Religioni e Dei/5 - Dio della conoscenza/Tomo dei sapienti\|Tomo dei sapienti]]","Nome":"Memor","Immagine":"![Dio della conoscenza.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Dio%20della%20conoscenza.png)"}}
 ---
 
 # Dio della conoscenza

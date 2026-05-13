@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/6 - Dio del sole/Dio del sole/","tags":["#dio","Num6","Maschio"],"dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["#dio","Num6","Maschio"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":null,"Mese":"[[6° mese\|6° mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Nome":"Aurelius","Immagine":"![Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Dio%20del%20sole.png)"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/12 - Dea della luna/Dea della luna/","tags":["#dio","Donna","Num12"],"dg-note-properties":{"aliases":["Regina degli dei"],"tags":["#dio","Donna","Num12"],"Template":"[[Divinità]]","Sesso":"Donna","Stagione":"[[Stagione Ombrosa\|Stagione Ombrosa]]","Dominio":["Luna","Notte","Misteri"],"Culti":null,"Mese":"[[12° mese]]","Costellazione":"[[Luna d'argento\|Luna d'argento]]","Nome":"...","Immagine":"![Dea della luna.png](/img/user/Dea%20della%20luna.png)"}}
 ---
 
-# Dio del sole
+# Dea della luna
 
 > [!infobox|right]
-> # Dio del sole
-> ![Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Dio%20del%20sole.png)
+> # Dea della luna
+> ![Dea della luna.png](/img/user/Dea%20della%20luna.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Sesso | Maschio |
-> | Stagione | [[Stagione Radiosa\|Stagione Radiosa]] |
-> | Dominio | Sole, luce, gloria, onore |
-> | Culti | [[Ordine dei sapienti\|Ordine dei sapienti]] |
+> | Sesso | Donna |
+> | Stagione | [[Stagione Ombrosa\|Stagione Ombrosa]] |
+> | Dominio | Luna, Notte, Misteri |
+> | Culti | [[Ordine ...\|Ordine ...]] |
 > | Mese | [[6° mese\|6° mese]] |
-> | Costellazione | [[Sole del mattino\|Sole del mattino]] |
+> | Costellazione | [[Luna d'argento\|Luna d'argento]] |
 > ![Tomo dei sapienti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Tomo%20dei%20sapienti.png)
-> > [!footer]
-> > ᚨᛏᛏᛖᚾᛏᛁ ᚨᛚ ᚢᛟᛗᛟ ᚲᚺᛖ ᛊᛟᚱᚱᛁᛞᛖ ᚲᛟᚾ ᛚᛖ ᛗᚨᚾᛁ
+
 
 
 Aurelius è il dio del sole, della luce e della gloria.
