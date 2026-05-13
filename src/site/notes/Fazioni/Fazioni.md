@@ -9,7 +9,7 @@ In questa pagina elenchiamo e spieghiamo alcuni tipi di fazione per facilitarne 
 
 ## Gilda
 
-## Religione
+## Religione 
 |                                                                                         | Fazioni                                                     |
 | --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | ![0-Immagini/Stendardi/Gilde immagini/Aurelian.png\|Aurelian.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Aurelian.png)                     | [[Fazioni/Famiglie/Aurelian\|Aurelian]]                  |

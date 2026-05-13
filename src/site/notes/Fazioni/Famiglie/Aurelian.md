@@ -25,9 +25,9 @@ Al giorno d'oggi gli Aurelian sono una delle famiglie più ricche ed influenti d
 Governano sul ricco [[Ducato di Aurelian\|Ducato di Aurelian]], e venerano il [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Dio del sole]].
 
 ## Membri della Famiglia ...
-|                                    | Membri della Famiglia Aurelian                                               |
-| ---------------------------------- | ---------------------------------------------------------------------------- |
-| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
+|                                                                         | Membri della Famiglia Aurelian                                                  |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ![Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
 
 { .block-language-dataview}
 

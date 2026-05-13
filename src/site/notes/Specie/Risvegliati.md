@@ -34,8 +34,8 @@ I Risvegliati sono ancora una specie giovane e non hanno avuto tempo di formare 
 Molte persone guardano con sospetto i Risvegliati, alcuni li ritengono una minaccia mentre altri li considerano una grande opportunità.
 
 ## Risvegliati degni di nota
-|                                    | Risvegliati                      |
-| ---------------------------------- | -------------------------------- |
-| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/D1-X0N\|D1-X0N]] |
+|                                    | Risvegliati                         |
+| ---------------------------------- | ----------------------------------- |
+| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
 
 { .block-language-dataview}

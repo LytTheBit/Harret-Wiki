@@ -17,9 +17,9 @@
 > ## Players
 > | Giocatore | PG |
 > |------|---------|
-> | [[Persone/Lorenzo Grassi\|Lorenzo Grassi]] | [[Personaggi/D1-X0N\|D1-X0N]] |
-> | [[Persone/Lorenzo Camuso\|Lorenzo Camuso]] | [[Personaggi/Matamata\|Matamata]] |
-> | [[Persone/Nodar Varazashvili\|Nodar Varazashvili]] | [[Personaggi/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
+> | [[Persone/Lorenzo Grassi\|Lorenzo Grassi]] | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
+> | [[Persone/Lorenzo Camuso\|Lorenzo Camuso]] | [[Personaggi/PG/Matamata\|Matamata]] |
+> | [[Persone/Nodar Varazashvili\|Nodar Varazashvili]] | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
 
 
 *Tales of the Academy* è una campagna ambientata su Harret iniziata nel Maggio del 2026. Ha come giocatori [[Persone/Lorenzo Grassi\|Lorenzo Grassi]], [[Persone/Lorenzo Camuso\|Lorenzo Camuso]] e [[Persone/Nodar Varazashvili\|Nodar Varazashvili]]. E' ambientata nel [[Mondo/Accademia di Wissen\|Accademia di Wissen]], e ha come protagonisti un gruppo di studenti del primo anno.

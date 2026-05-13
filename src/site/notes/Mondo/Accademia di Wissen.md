@@ -64,37 +64,42 @@ Nel corso degli anni scolastici le lezioni di specializzazione diventano sempre 
 
 Il complesso è distribuito su cinque altopiani collegati da scale e ponti soprelevati.
 
-| Altopiano | Contenuto |
-|-----------|-----------|
-| Primo | Edificio principale, Torre dell'Orologio, Biblioteca, Palestra, Stadio, Dormitori, Cortile |
-| Secondo | Stalle, Guferia |
-| Terzo | Studentato, Club |
-| Quarto | Cappella di Memor, Monastero |
-| Quinto | Giardino delle Vette |
-
-## Persone Note
-
-- [[Il Preside\|Il Preside]] — figura misteriosa, non lascia mai la Torre dell'Orologio
-- [[Pierum Angelo\|Pierum Angelo]] — vicepreside e professore di storia, voce calda, sempre disponibile
+| Altopiano | Contenuto                                                                                  |
+| --------- | ------------------------------------------------------------------------------------------ |
+| Primo     | Edificio principale, Torre dell'Orologio, Biblioteca, Palestra, Stadio, Dormitori, Cortile |
+| Secondo   | Stalle, Guferia                                                                            |
+| Terzo     | Studentato, Club                                                                           |
+| Quarto    | Cappella di Memor, Monastero                                                               |
+| Quinto    | Giardino delle Vette                                                                       |
 
 ## I Club
 Lo Studentato ospita numerosi club, alcuni ufficiali e altri tolleratia malapena dall’amministrazione:
-- [[Consiglio Studentesco\|Consiglio Studentesco]]
+#### Consiglio Studentesco
+[[Consiglio Studentesco\|Consiglio Studentesco]]
 - [[Squadra di BowBall\|Squadra di BowBall]]
 - [[Club di Teatro\|Club di Teatro]]
 - [[Club dei Misteri\|Club dei Misteri]]
 
-## Gli Sport: 
-#### BowBall
+#### Club sportivo-BowBall
 Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalzano in modo imprevedibile sulle pareti dello Stadio.
 
-## Studenti
+## Corpo studentesco
+
+- [[Il Preside\|Il Preside]] — figura misteriosa, non lascia mai la Torre dell'Orologio
+- [[Pierum Angelo\|Pierum Angelo]] — vicepreside e professore di storia, voce calda, sempre disponibile
+
+#### Professori
+|   | Professori |
+| - | ---------- |
+
+{ .block-language-dataview}
+#### Studenti
 ![Uniformi studenti Wissen.png\|right\|300](/img/user/0-Immagini/Uniformi%20studenti%20Wissen.png) Originariamente l'accademia era pensata per ospitare solo uomini di origine nobile. Ben presto si è espansa per poter ospitare anche le nobildonne e infine ha aperto le porte a chiunque potesse permettersi di pagare la lettera e di ricevere una raccomandazione. Cominciando inoltre ad offrire borse di studio per gli studenti più in difficoltà economica.
 Al momento l'accademia conta più di mille studenti. Anche se è curioso notare come la maggior parte siano studenti dei primi anni, visto che molti tendono ad abbandonare visti i rigidi requisiti del accademia. O a fermarsi dopo il *ciclo triennale* di studi.
-|                                    | Studenti                                                                     |
-| ---------------------------------- | ---------------------------------------------------------------------------- |
-| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/D1-X0N\|D1-X0N]]                                             |
-| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
-| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/Matamata\|Matamata]]                                         |
+|                                                                         | Studenti                                                                        |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png)                                      | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                             |
+| ![Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
+| ![Matamata.png\|Matamata.png](/img/user/Matamata.png)                                         | [[Personaggi/PG/Matamata\|Matamata]]                                         |
 
 { .block-language-dataview}

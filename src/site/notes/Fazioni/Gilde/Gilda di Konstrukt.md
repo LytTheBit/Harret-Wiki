@@ -25,8 +25,8 @@ Konstrukt mantiene inoltre enormi archivi segreti sui processi di creazione dei 
 La gilda gode di grande influenza politica e accademica, avendo rapporti diretti con l’[[Mondo/Accademia di Wissen\|Accademia di Wissen]]. 
 
 ## Membri della Gilda di Konstrukt
-|                                    | Membri della Gilda di Konstrukt  |
-| ---------------------------------- | -------------------------------- |
-| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/D1-X0N\|D1-X0N]] |
+|                                    | Membri della Gilda di Konstrukt     |
+| ---------------------------------- | ----------------------------------- |
+| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
 
 { .block-language-dataview}
