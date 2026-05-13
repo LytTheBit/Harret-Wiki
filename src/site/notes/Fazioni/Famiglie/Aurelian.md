@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Aurelian/","tags":["#Famiglia","#Fazione","Aurelian"],"dg-note-properties":{"aliases":null,"tags":["#Famiglia","#Fazione","Aurelian"],"Motto":"*\"\"*","Capofamiglia":"[[Persona NPC]]","Regno":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Sede":"[[Posto]]","Rango nobiliare":"Duchi","Immagine":"![Aurelian.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Aurelian.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Famiglie/Aurelian/","tags":["#Famiglia","#Fazione","Aurelian"],"dg-note-properties":{"aliases":null,"tags":["#Famiglia","#Fazione","Aurelian"],"Motto":"*\"Il sole non tramonta mai sulla Casata Aurelion.\"*","Capofamiglia":"[[Persona NPC]]","Regno":"[[Ducato di Aurelian\|Ducato di Aurelian]]","Sede":"[[Posto]]","Rango nobiliare":"Duchi","Immagine":"![Aurelian.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Aurelian.png)"}}
 ---
 
 # Famiglia Aurelian
@@ -9,8 +9,8 @@
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Motto | ??? |
-> | Dominio | ??? |
+> | Motto | *"Il sole non tramonta mai sulla Casata Aurelion."* |
+> | Regno | [[Ducato di Aurelian\|Ducato di Aurelian]] |
 > | Sede | ??? |
 > | Capofamiglia | ??? |
 > | Rango nobiliare | ??? |

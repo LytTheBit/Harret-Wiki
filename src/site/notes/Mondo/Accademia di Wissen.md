@@ -75,12 +75,13 @@ Il complesso è distribuito su cinque altopiani collegati da scale e ponti sopre
 ## I Club
 Lo Studentato ospita numerosi club, alcuni ufficiali e altri tolleratia malapena dall’amministrazione:
 #### Consiglio Studentesco
-[[Consiglio Studentesco\|Consiglio Studentesco]]
-- [[Squadra di BowBall\|Squadra di BowBall]]
-- [[Club di Teatro\|Club di Teatro]]
-- [[Club dei Misteri\|Club dei Misteri]]
+Il [[Consiglio Studentesco\|Consiglio Studentesco]]
+#### Club di Teatro
+[[Club di Teatro\|Club di Teatro]]
+#### Club dei Misteri
+[[Club dei Misteri\|Club dei Misteri]]
 
-#### Club sportivo-BowBall
+#### Club sportivo: BowBall
 Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalzano in modo imprevedibile sulle pareti dello Stadio.
 
 ## Corpo studentesco
