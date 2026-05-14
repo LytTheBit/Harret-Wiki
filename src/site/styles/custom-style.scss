@@ -21,8 +21,8 @@ body {
     width: 200px !important;
     border-radius: 4px !important;
     overflow: hidden !important;
-    background: #1a1a2e !important;
-    border: 1px solid #4a3a7a !important;
+    background: #0e1a2e !important;
+    border: 1px solid #3a5a8a !important;
     text-align: center !important;
     position: relative !important;
     isolation: isolate !important;
@@ -31,8 +31,8 @@ body {
   }
 
   main.dg-cards .table-view-tbody tr:hover {
-    border-color: #7c5cbf !important;
-    box-shadow: 0 0 12px rgba(124, 92, 191, 0.4) !important;
+    border-color: #5b8dd9 !important;
+    box-shadow: 0 0 12px rgba(91, 141, 217, 0.4) !important;
   }
 
   main.dg-cards .table-view-tbody td {
@@ -54,13 +54,13 @@ body {
     font-size: 14px !important;
     font-weight: bold !important;
     font-family: "Courier New", monospace !important;
-    color: #c9b8e8 !important;
-    background: #12121f !important;
-    border-top: 1px solid #4a3a7a !important;
+    color: #b8cce8 !important;
+    background: #0a1220 !important;
+    border-top: 1px solid #3a5a8a !important;
   }
 
   main.dg-cards .table-view-tbody td:last-child a {
-    color: #c9b8e8 !important;
+    color: #b8cce8 !important;
     text-decoration: none !important;
     position: static !important;
     pointer-events: none !important;
@@ -86,8 +86,6 @@ body {
     display: block !important;
   }
 
-
-
   /* Float immagini */
   img[alt*="right"] {
     float: right;
@@ -111,20 +109,18 @@ body {
     clear: both;
   }
 
-
-
-/* Titoli H1 stile Fancy A Story */
+  /* Titoli H1 stile Fancy A Story */
   .dg-title h1 {
     font-family: "Courier New", "Courier", monospace !important;
     font-weight: bold !important;
     font-size: 2.2rem !important;
-    color: #c9b8e8 !important;
-    background: #1a1a2e !important;
+    color: #b8cce8 !important;
+    background: #0e1a2e !important;
     text-align: center !important;
     padding: 0.6em 1.5em !important;
-    border: 2px solid #7c5cbf !important;
+    border: 2px solid #5b8dd9 !important;
     border-radius: 6px !important;
-    box-shadow: inset 0 0 0 4px #1a1a2e, inset 0 0 0 6px #4a3a7a !important;
+    box-shadow: inset 0 0 0 4px #0e1a2e, inset 0 0 0 6px #3a5a8a !important;
     letter-spacing: 0.15em !important;
     margin: 1.5em 0 !important;
   }
