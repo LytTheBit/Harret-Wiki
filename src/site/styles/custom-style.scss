@@ -123,6 +123,11 @@ body {
     border-radius: 6px !important;
     box-shadow: inset 0 0 0 4px #0e1a2e, inset 0 0 0 6px #3a5a8a !important;
     letter-spacing: 0.12em !important;
-    margin: 1.5em 0 !important;
+    margin: 1.5em 0 0.4em 0 !important;
+    text-shadow: 0 0 20px rgba(91, 141, 217, 0.4) !important;
+  }
+
+  .dg-title h1::after {
+    display: none !important;
   }
 }
