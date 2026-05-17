@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/6 - Dio del sole/Dio del sole/","tags":["#dio","Num6","Maschio"],"dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["#dio","Num6","Maschio"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":null,"Mese":"[[6° mese\|6° mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Nome":"Aurelius","Immagine":"![Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Dio%20del%20sole.png)"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/6 - Dio del sole/Dio del sole/","tags":["#dio","Num6"],"created":"2026-05-11T19:07:40.401+02:00","updated":"2026-05-16T18:46:59.314+02:00","dg-note-properties":{"aliases":["Dio della luce","Aurelius","Re degli dei"],"tags":["#dio","Num6"],"Template":"[[Divinità]]","Sesso":"Maschio","Stagione":"[[Stagione Ombrosa]]","Dominio":["Sole","Luce","Gloria","Onore"],"Culti":null,"Mese":"[[6° mese\|6° mese]]","Costellazione":"[[Sole del mattino\|Sole del mattino]]","Nome":"Aurelius","Immagine":"![Dio del sole.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/Dio%20del%20sole.png)"}}
 ---
 
 # Dio del sole
@@ -41,7 +41,7 @@ La religione più diffusa del dio della luce è l'[[Ordine dei radianti\|Ordine 
 Nei miti, si racconta di come [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Aurelius]] durante il caos primordiale e la [[La prima guerra\|guerra]] con gli [[Arcidraghi\|Arcidraghi]] abbia creato *la prima luce*, per poter illuminare il buio assoluto che inghiottiva il mondo a quel tempo. Con questa luce [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Aurelius]] guidò i suoi compagni alla vittoria.
 
 #### Mito: la creazione del sole
-Si racconta di come, una volta finita la guerra. Quando gli altri dei si dedicavano alla creazione dei pianeti e delle prime specie. [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Aurelius]] prese una ciocca della sua chioma, e da quella forgiò il sole. Lo fece poi ruotare attorno ad [[Harret\|Harret]] con i suoi poteri per scandire l'alternarsi del giorno e della notte.
+Si racconta di come, una volta finita la guerra. Quando gli altri dei si dedicavano alla creazione dei pianeti e delle prime specie. [[Religioni e Dei/6 - Dio del sole/Dio del sole\|Aurelius]] prese una ciocca della sua chioma, e da quella forgiò il sole. Lo fece poi ruotare attorno ad [[Mondo/Harret/Pianeta di Harret\|Pianeta di Harret]] con i suoi poteri per scandire l'alternarsi del giorno e della notte.
 
 
 

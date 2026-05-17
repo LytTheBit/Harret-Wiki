@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/Religione e divinità/","contentClasses":"dg-cards","tags":["#Lore"],"dg-note-properties":{"aliases":["Divinità","Religione","Dei"],"tags":["#Lore"],"Template":"[[Info]]","Argomento":"Divinità su Harret"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/Religione e divinità/","contentClasses":"dg-cards","tags":["#Lore"],"created":"2026-05-08T23:17:28.534+02:00","updated":"2026-05-16T17:29:29.319+02:00","dg-note-properties":{"aliases":["Divinità","Religione","Dei"],"tags":["#Lore"],"Template":"[[Info]]","Argomento":"Divinità su Harret"}}
 ---
 
 # Religione e divinità
 
-Gli dei sono coloro che hanno plasmato il mondo dal [[caos primordiale\|caos primordiale]] per creare il [[Cosmo\|Cosmo]] per come lo conosciamo. Vi sono 12 divinità, ognuna associata ad una costellazione e ad un mese diverso.
+Gli dei sono coloro che hanno plasmato il mondo dal [[caos primordiale\|caos primordiale]] per creare il [[Mondo/Cosmo\|Cosmo]] per come lo conosciamo. Vi sono 12 divinità, ognuna associata ad una costellazione e ad un mese diverso.
 
 ## Storia e mito
 Secondo il mito, gli Dei nacquero dal caos primordiale causato dallo scontro del [[piano eterno\|piano eterno]] e del [[piano onirico\|piano onirico]], proprio come gli [[Arcidraghi\|Arcidraghi]].
 Inizio cosi una guerra tra gli Dei e gli Arcidraghi. Che passò alla storia come [[La prima guerra\|La prima guerra]]. 
 Gli dei volevano portare ordine e pace, mentre i draghi volevano mantenere il caos e la l'oscurità.
-Alla fine del conflitto, che a seconda del mito ha durate differenti, gli Dei vinsero, uccidendo il [[Re degli Arcidraghi\|Re degli Arcidraghi]] mentre gli altri fuggirono a nascondersi per il [[Cosmo\|Cosmo]].
+Alla fine del conflitto, che a seconda del mito ha durate differenti, gli Dei vinsero, uccidendo il [[Re degli Arcidraghi\|Re degli Arcidraghi]] mentre gli altri fuggirono a nascondersi per il [[Mondo/Cosmo\|Cosmo]].
 
-Gli Dei iniziarono quindi a ricostruire il [[Cosmo\|Cosmo]]:
-Nel luogo della loro vittoria, crearono il nuovo centro del Cosmo, e il pianeta più grande. [[Harret\|Harret]].
+Gli Dei iniziarono quindi a ricostruire il [[Mondo/Cosmo\|Cosmo]]:
+Nel luogo della loro vittoria, crearono il nuovo centro del Cosmo, e il pianeta più grande. [[Mondo/Harret/Pianeta di Harret\|Pianeta di Harret]].
 Crearono il [[sole\|sole]] e la [[luna\|luna]] per alternare il giorno e la notte.
 Crearono poi sei pianeti minori per mantenere l'equilibrio tra i piani di esistenza, e alternare le stagioni.
 E infine crearono le loro dimore, le [[Costellazioni\|Costellazioni]], dove riposare e guardare il mondo da loro creato.

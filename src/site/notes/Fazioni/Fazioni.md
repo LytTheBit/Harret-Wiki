@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Fazioni/","contentClasses":"dg-cards","tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"dg-note-properties":{"aliases":null,"tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"Template":"[[Info]]","Argomento":"Fazioni su Harret"}}
+{"dg-publish":true,"permalink":"/Fazioni/Fazioni/","contentClasses":"dg-cards","tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"created":"2026-05-12T22:17:57.743+02:00","updated":"2026-05-15T12:43:30.418+02:00","dg-note-properties":{"aliases":null,"tags":["#Lore","Fazione","Gilda","Famiglia","Religione"],"Template":"[[Info]]","Argomento":"Fazioni su Harret"}}
 ---
 
 Esistono diverse tipi di fazioni. Famiglie nobili, bande mercenarie, gilde di vario tipo.
@@ -14,17 +14,17 @@ Sono qui riportate la lista delle famiglie nobili esplorate nel ambientazione. O
 5. Cavalieri
 6. Plebe
 
-|                                                                     | Famiglie                                   |
-| ------------------------------------------------------------------- | ------------------------------------------ |
-| ![0-Immagini/Stendardi/Gilde immagini/Aurelian.png\|Aurelian.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Aurelian.png) | [[Fazioni/Famiglie/Aurelian\|Aurelian]] |
+|                                                                              | Famiglie                                   |
+| ---------------------------------------------------------------------------- | ------------------------------------------ |
+| ![0-Immagini/Stendardi immagini/Gilde immagini/Aurelian.png\|Aurelian.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png) | [[Fazioni/Famiglie/Aurelian\|Aurelian]] |
 
 { .block-language-dataview}
 
 ## Gilda
 Una gilda è un organizzazione composta da privati cittadini, riuntiti 
-|                                                                                         | Gilde                                                       |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| ![0-Immagini/Stendardi/Gilde immagini/Gilda di Konstrukt.png\|Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Gilda%20di%20Konstrukt.png) | [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]] |
+|                                                                                                  | Gilde                                                       |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| ![0-Immagini/Stendardi immagini/Gilde immagini/Gilda di Konstrukt.png\|Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png) | [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]] |
 
 { .block-language-dataview}
 
@@ -36,9 +36,9 @@ Una gilda è un organizzazione composta da privati cittadini, riuntiti
 { .block-language-dataview}
 
 ## Tutte le fazioni
-|                                                                                         | Fazioni                                                     |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| ![0-Immagini/Stendardi/Gilde immagini/Aurelian.png\|Aurelian.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Aurelian.png)                     | [[Fazioni/Famiglie/Aurelian\|Aurelian]]                  |
-| ![0-Immagini/Stendardi/Gilde immagini/Gilda di Konstrukt.png\|Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Gilda%20di%20Konstrukt.png) | [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]] |
+|                                                                                                  | Fazioni                                                     |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| ![0-Immagini/Stendardi immagini/Gilde immagini/Aurelian.png\|Aurelian.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Aurelian.png)                     | [[Fazioni/Famiglie/Aurelian\|Aurelian]]                  |
+| ![0-Immagini/Stendardi immagini/Gilde immagini/Gilda di Konstrukt.png\|Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png) | [[Fazioni/Gilde/Gilda di Konstrukt\|Gilda di Konstrukt]] |
 
 { .block-language-dataview}

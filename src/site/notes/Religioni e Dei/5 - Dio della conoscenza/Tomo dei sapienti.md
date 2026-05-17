@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Religioni e Dei/5 - Dio della conoscenza/Tomo dei sapienti/","tags":["#Astro","Costellazione","Num5"],"dg-note-properties":{"aliases":null,"tags":["#Astro","Costellazione","Num5"],"Template":"[[Costellazione]]","Cielo":"[[Quinto cielo]]","Dio associato":"[[Religioni e Dei/5 - Dio della conoscenza/Dio della conoscenza\|Dio della conoscenza]]","Immagine":"![Tomo dei sapienti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Tomo%20dei%20sapienti.png)"}}
+{"dg-publish":true,"permalink":"/Religioni e Dei/5 - Dio della conoscenza/Tomo dei sapienti/","tags":["#Astro","Costellazione","Num5"],"created":"2026-05-08T23:11:01.929+02:00","updated":"2026-05-10T19:29:54.850+02:00","dg-note-properties":{"aliases":null,"tags":["#Astro","Costellazione","Num5"],"Template":"[[Costellazione]]","Cielo":"[[Quinto cielo]]","Dio associato":"[[Religioni e Dei/5 - Dio della conoscenza/Dio della conoscenza\|Dio della conoscenza]]","Immagine":"![Tomo dei sapienti.png](/img/user/0-Immagini/Costellazioni%20e%20Dei/5%20-%20conoscenza/Tomo%20dei%20sapienti.png)"}}
 ---
 
 # Tomo dei sapienti

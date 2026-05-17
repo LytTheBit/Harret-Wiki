@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Specie/Risvegliati/","contentClasses":"dg-cards","tags":["Specie","Senziente","Risvegliato"],"dg-note-properties":{"aliases":["Awoken","Risvegliato"],"tags":["Specie","Senziente","Risvegliato"],"Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/0-Immagini/Specie%20immagini/Risvegliato.png)","Stirpe":"Quinta stirpe"}}
+{"dg-publish":true,"permalink":"/Specie/Risvegliati/","contentClasses":"dg-cards","tags":["Specie","Senziente","Risvegliato"],"created":"2026-05-11T18:47:45.286+02:00","updated":"2026-05-16T18:56:32.484+02:00","dg-note-properties":{"aliases":["Awoken","Risvegliato"],"tags":["Specie","Senziente","Risvegliato"],"Template":"[[Specie Senziente]]","Immagine":"![Risvegliato.png](/img/user/0-Immagini/Specie%20immagini/Risvegliato.png)","Stirpe":"Quinta stirpe"}}
 ---
 
 # Risvegliati
@@ -9,7 +9,7 @@
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
-> | Pianeti | [[Harret\|Harret]] |
+> | Pianeti | [[Mondo/Harret/Pianeta di Harret\|Pianeta di Harret]] |
 > | Altezza tipica | ??? |
 > | Longevità | ??? |
 > ## Regolamento
@@ -34,8 +34,8 @@ I Risvegliati sono ancora una specie giovane e non hanno avuto tempo di formare 
 Molte persone guardano con sospetto i Risvegliati, alcuni li ritengono una minaccia mentre altri li considerano una grande opportunità.
 
 ## Risvegliati degni di nota
-|                                    | Risvegliati                         |
-| ---------------------------------- | ----------------------------------- |
-| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
+|                                          | Risvegliati                         |
+| ---------------------------------------- | ----------------------------------- |
+| ![0-Immagini/Extra/Test.png\|Test.png](/img/user/0-Immagini/Extra/Test.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
 
 { .block-language-dataview}

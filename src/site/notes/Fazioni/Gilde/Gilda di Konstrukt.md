@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Fazioni/Gilde/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["#Gilda","#Fazione","Konstrukt"],"dg-note-properties":{"aliases":null,"tags":["#Gilda","#Fazione","Konstrukt"],"Template":"[[Gilda]]","Sede":"[[Posto]]","Capo":null,"Tipo di gilda":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
+{"dg-publish":true,"permalink":"/Fazioni/Gilde/Gilda di Konstrukt/","contentClasses":"dg-cards","tags":["#Gilda","#Fazione","Konstrukt"],"created":"2026-05-11T21:06:32.232+02:00","updated":"2026-05-15T12:29:03.594+02:00","dg-note-properties":{"aliases":null,"tags":["#Gilda","#Fazione","Konstrukt"],"Template":"[[Gilda]]","Sede":"[[Posto]]","Capo":null,"Tipo di gilda":"Gilda di costruttori","Immagine":"![Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)"}}
 ---
 
 
 # Gilda di Konstrukt
 > [!infobox|right]
 > # Gilda di Konstrukt
-> ![Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi/Gilde%20immagini/Gilda%20di%20Konstrukt.png)
+> ![Gilda di Konstrukt.png](/img/user/0-Immagini/Stendardi%20immagini/Gilde%20immagini/Gilda%20di%20Konstrukt.png)
 > ## Dettagli
 > | Voce | Valore |
 > |------|---------|
@@ -22,11 +22,11 @@ Dieci anni fa, Konstrukt sviluppò la prima generazione di [[Specie/Risvegliati\
 ## Al giorno d'oggi
 Konstrukt mantiene inoltre enormi archivi segreti sui processi di creazione dei loro golem. Parte di queste conoscenze è codificata tramite misteriose rune arcane che persino molti membri della gilda non comprendono completamente. Il più grande mistero rimane infatti irrisolto: come e quando nasca realmente “l’[[anima\|anima]]” di un [[Specie/Risvegliati\|risvegliato]].
 
-La gilda gode di grande influenza politica e accademica, avendo rapporti diretti con l’[[Mondo/Accademia di Wissen\|Accademia di Wissen]]. 
+La gilda gode di grande influenza politica e accademica, avendo rapporti diretti con l’[[Mondo/Harret/Luoghi/Accademia di Wissen\|Accademia di Wissen]]. 
 
 ## Membri della Gilda di Konstrukt
-|                                    | Membri della Gilda di Konstrukt     |
-| ---------------------------------- | ----------------------------------- |
-| ![0-Immagini/Test.png\|Test.png](/img/user/0-Immagini/Test.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
+|                                          | Membri della Gilda di Konstrukt     |
+| ---------------------------------------- | ----------------------------------- |
+| ![0-Immagini/Extra/Test.png\|Test.png](/img/user/0-Immagini/Extra/Test.png) | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
 
 { .block-language-dataview}
