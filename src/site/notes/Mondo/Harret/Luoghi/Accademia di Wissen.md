@@ -18,7 +18,7 @@
 > | Ruolo | Insegnante |
 > |------|---------|
 > | Preside | [[Il Preside\|Il Preside]] *(sconosciuto)* |
-> | Vicepreside | [[Personaggi/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
+> | Vicepreside | [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] |
 > | Insegnante di regalità | ... |
 > | Insegnante di cavalleria | ... |
 > | Insegnante di magia | ... |
@@ -35,7 +35,7 @@ E' l'ambientazione principale della campagna [[Campagne/Tales of the Accademy/Ta
 ## Storia
 L'accademia fu fondata seicento anni fa da tre valorosi eroi che, dopo aver salvato il mondo da un antico drago che minacciava il continente, decisero di erigere una scuola sul monte stesso in cui sconfissero la bestia, affinché le generazioni future potessero imparare dalle
 loro gesta. I fondatori furono:
-- [[Re Rodrick Rammer\|Re Rodrick Rammer]]. Sovrano del regno di [[Regno di Rumiria\|Regno di Rumiria]], che fondò l’*Accademia di Scienze Politiche e Reali.*
+- [[Re Rodrick Rammer\|Re Rodrick Rammer]]. Sovrano del regno di [[Mondo/Harret/Nazioni/Regno di Rumiria\|Regno di Rumiria]], che fondò l’*Accademia di Scienze Politiche e Reali.*
 - [[Ser Steven Strong\|Ser Steven Strong]]. Cavaliere delle Terre del Sud, che fondò l’*Accademia di Cavalleria e Coraggio.*
 - [[Maestro Morgan Maitre\|Maestro Morgan Maitre]]. Mago della [[Torre Storta\|Torre Storta]], che fondò l’*Accademia della Magia e dei Misteri.*
 
@@ -87,7 +87,7 @@ Variante del dodgeball con palle da bowling magicamente alleggerite che rimbalza
 ## Corpo studentesco
 
 - [[Il Preside\|Il Preside]] — figura misteriosa, non lascia mai la Torre dell'Orologio
-- [[Personaggi/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] — vicepreside e professore di storia, voce calda, sempre disponibile
+- [[Personaggi/NPC/Professori Accademia di Wissen/Gianpiero Arcangeli\|Gianpiero Arcangeli]] — vicepreside e professore di storia, voce calda, sempre disponibile
 
 #### Professori
 |   | Professori |
@@ -101,6 +101,6 @@ Al momento l'accademia conta più di mille studenti. Anche se è curioso notare 
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | ![0-Immagini/Extra/Test.png\|Test.png](/img/user/0-Immagini/Extra/Test.png)                                                                  | [[Personaggi/PG/D1-X0N\|D1-X0N]]                                             |
 | ![0-Immagini/Personaggi immagini/PG/Lugalin Gilgamesh d’Aurelian.png\|Lugalin Gilgamesh d’Aurelian.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Lugalin%20Gilgamesh%20d%E2%80%99Aurelian.png) | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
-| ![0-Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Matamata.png)                                         | [[Personaggi/PG/Matamata\|Matamata]]                                         |
+| ![0-Immagini/Personaggi immagini/PG/Matamata.png\|Matamata.png](/img/user/0-Immagini/Personaggi%20immagini/PG/Matamata.png)                                         | [[Personaggi/PG/Mata Mata\|Mata Mata]]                                       |
 
 { .block-language-dataview}

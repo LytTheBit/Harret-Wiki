@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-05-12T21:39:36.519+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":null,"Data di fine":null,"Players":["[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
+{"dg-publish":true,"permalink":"/Campagne/Tales of the Accademy/Tales of the Accademy/","tags":["Campagna","Daggerheart"],"created":"2026-05-07T11:36:31.432+02:00","updated":"2026-05-17T22:48:52.833+02:00","dg-note-properties":{"aliases":null,"tags":["Campagna","Daggerheart"],"Template":"[[0-Template/Off game/Campagna]]","Generi":["Fantasy","Slice of life","Mistero"],"Data di inizio":null,"Data di fine":null,"Players":["[[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]]","[[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]]","[[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]]"],"PG":"[[Persona PG]]","Sistema":"[[Daggerheart]]","Immagine":"![Accademia di Wissen.png](/img/user/0-Immagini/Luoghi%20immagini/Posti/Accademia%20di%20Wissen.png)"}}
 ---
 
 # Tales of the Academy
@@ -18,7 +18,7 @@
 > | Giocatore | PG |
 > |------|---------|
 > | [[(Extra) Persone/Lorenzo Grassi\|Lorenzo Grassi]] | [[Personaggi/PG/D1-X0N\|D1-X0N]] |
-> | [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]] | [[Personaggi/PG/Matamata\|Matamata]] |
+> | [[(Extra) Persone/Lorenzo Camuso\|Lorenzo Camuso]] | [[Personaggi/PG/Mata Mata\|Mata Mata]] |
 > | [[(Extra) Persone/Nodar Varazashvili\|Nodar Varazashvili]] | [[Personaggi/PG/Lugalin Gilgamesh d’Aurelian\|Lugalin Gilgamesh d’Aurelian]] |
 
 
