@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","contentClasses":"dg-cards","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-18T14:09:08.848+02:00","dg-note-properties":{"cssclasses":["illusion"]}}
+{"dg-publish":true,"permalink":"/Home/","contentClasses":"dg-cards","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-18T14:10:33.021+02:00","dg-note-properties":{"cssclasses":["illusion"]}}
 ---
 
 # Home
-Benvenuti su [[Mondo/Harret/Pianeta di Harret\|Pianeta di Harret]]... non c'è niente qui per ora... 
+Benvenuti su [[Mondo/Harret/Pianeta di Harret\|Pianeta di Harret]]... non c'è niente qui per ora...  test
 
 ## Campagne
 Lista delle campagne della ambientazione.
