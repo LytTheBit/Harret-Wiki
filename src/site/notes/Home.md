@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","contentClasses":"dg-cards","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-18T12:02:13.913+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Home/","contentClasses":"dg-cards","tags":["gardenEntry"],"created":"2026-04-24T14:36:59.227+02:00","updated":"2026-05-18T14:09:08.848+02:00","dg-note-properties":{"cssclasses":["illusion"]}}
 ---
 
 # Home
